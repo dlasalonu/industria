@@ -1,0 +1,2244 @@
+{
+  "settings": {
+    "name": "industriatour.pl",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 57,
+    "versionPublish": "3.12.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "12px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/industriatour-logo-m-632x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box5-a\">O NAS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html#msg-box5-h\">OFERTA</a></li>        <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">KLASTER</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box5-c\">PARTNERZY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">ŚLĄSKIE GADŻETY</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-e\" data-toolbar=\"-mbrBtnMove\">KONTAKT</a></li>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "H1": {
+              "text-align": "right",
+              "color": "#ffffff"
+            },
+            "P": {
+              "text-align": "right",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/img-2000x1333.jpg",
+                "contentAlign": "right",
+                "overlay": true,
+                "overlayOpacity": "0.5",
+                "overlayColor": "#000000",
+                "showTitle": true,
+                "title": "Wycieczki szkolne <br>i warsztaty edukacyjne &nbsp;",
+                "showText": true,
+                "text": "Z nami poznasz bogatą kulturę oraz postindustrialne dziedzictwo Śląska poprzez różnorodne atrakcje i warsztaty tematyczne.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">DOWIEDZ SIĘ WIĘCEJ</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1125.jpg",
+                "contentAlign": "right",
+                "overlay": true,
+                "overlayOpacity": "0.7",
+                "showTitle": true,
+                "title": "Wycieczki do obiektów postindustrialnych&nbsp;",
+                "showText": true,
+                "text": "Poszukujesz emocji lub ekstremalnych przeżyć? Koniecznie zobacz jakie atrakcje czekają dla Ciebie, Twojej rodziny czy kolegów z zakładu pracy!",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">ZAPOZNAJ SIĘ Z OFERTĄ</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
+                "contentAlign": "right",
+                "overlay": true,
+                "overlayOpacity": "0.7",
+                "showTitle": true,
+                "title": "Organizacja imprez komercyjnych",
+                "showText": true,
+                "text": "Organizujesz wydarzenie, konferencję lub spotkanie i szukasz osób, które zapewnią wyjątkową oprawę Twojego eventu? Dobrze trafiłeś!",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">SPRAWDŹ CO POTRAFIMY</a> "
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#ffffff",
+            "showBullets": true
+          },
+          "_anchor": "slider-3",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-a",
+          "_params": {
+            "imageSize": "21",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/industriatour-logo-m-1400x283.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "Kilka słów o nas",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><b><br></b></p><p><b>Co warto wiedzieć o naszej firmie?</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "features1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "text-align": "left",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "content4-7",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": "3",
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "NASZE POCZĄTKI",
+          "caption1": "Industria Tour powstała w 2015r. roku jako mała firma działająca w obszarze turystyki i eventów, realizując projekty jako podwykonawca.<br><br>Stopniowo dojrzewał w nas kolejny pomysł dalszego rozwoju i do swojej oferty dołączyliśmy  pełną gamę usług z zakresu turystyki.<br><br>Na początku 2017 roku otrzymaliśmy wpis do Centralnej Ewidencji Organizatorów Turystki i Pośredników Turystycznych w Katowicach i od tej pory rozpoczęliśmy organizację  imprez turystycznych, tworząc kompleksową ofertę na bazie zabytkowych obiektów na terenie Śląska. Jako członek <b>Śląskiego Klastra Kultury Turystyki i Rekreacji</b> tworzymy ofertę w oparciu o wiodące zabytki postindustrialne naszego regionu.<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "OBECNIE WSPÓŁPRACUJEMY",
+          "caption2": "Nasza współpraca z:<br><br>•<b> obiektami Szlaku Zabytków Techniki<br>• podmiotami zrzeszonymi w ramach Śląskiego Klastra Kultury Turystyki i Rekreacji<br>• podmiotami  zrzeszonymi w ramach Stowarzyszenia Centrum Działań Rewitalizacyjnych</b><br><br>zaowocowała zainicjowaniem przez naszą firmę projektu „Turystyka Postindustrialna Górnego Śląska”. <br><br>Dzięki staraniom naszym i naszych partnerów została stworzona szeroka gama wycieczek i wyjazdów kilkudniowych prezentujących walory dziedzictwa poprzemysłowego naszego regionu.<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "NASZ ZESPÓŁ",
+          "caption3": "Obecnie do naszego zespołu należą 3 osoby oraz grupa współpracujących z naszym biurem przewodników animatorów oraz przewoźników. <br><br>Wszyscy dbamy o to, by proponowane Państwu usługi były zrealizowane z najwyższą starannością oraz by Państwa zadowolenie z uczestnictwa w naszych imprezach było jak największe.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "UNLIMITED WEBSITES",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "text-align": "left"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-b",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#00b6be",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/logo_bt-1400x1025.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "setting",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "headerAlign": "left",
+          "title": "JESTEŚMY CZŁONKIEM KLASTRA!",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><b>Jesteśmy członkiem Stowarzyszenia Centrum Działań Rewitalizacyjnych w Zabrzu. </b></p><p><b><br></b>Stowarzyszenie jest Liderem <i>Śląskiego Klastra Kultury, Turystyki i Rekreacji,</i> w skład którego wchodzą prężnie rozwijające się firmy i instytucje. Uczestnicy Klastra aktywnie i z zaangażowaniem dążą do realizacji wspólnych celów i przedsięwzięć, które polegają na wzmacnianiu konkurencyjności oraz stymulowaniu rozwoju sektora kultury, turystyki i rekreacji w województwie śląskim.</p><p><br></p><p>Industria Tour jako aktywny uczestnik działań w obrębie Klastra ma na względzie rozwój segmentów kultury, turystyki i rekreacji w województwie śląskim, z uwzględnieniem potencjału przedsiębiorców, instytutów badawczych, uczelni wyższych oraz innych instytucji otoczenia biznesu działających w obszarach (branżach) kulturalnych, turystycznych i rekreacyjnych.</p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ O KLASTRZE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "font-size": "30px",
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-c",
+          "_params": {
+            "imageSize": "10",
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/industriatour-logo-1400x283.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "Nasi partnerzy",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><b>Nasi partnerzy</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "features1-d",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-guido-600x282.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "KOPALNIA GUIDO W ZABRZU",
+          "caption1": "Aenean rhoncus maximus tristique. Fusce pellentesque dapibus porta. Maecenas ut eros condimentum, fermentum nisi eget, convallis eros. Suspendisse potenti.&nbsp;",
+          "button1": "<a data-app-btn=\"true\" href=\"http://kopalniaguido.pl/index.php\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WIĘCEJ</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-luiza-600x282.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "SZTOLNIA KRÓLOWA LUIZA",
+          "caption2": "Cras nec mauris dapibus, ultrices risus eget, eleifend metus. Maecenas tempus euismod consequat. Etiam nibh tellus, dictum sit amet posuere et, tempor a est.&nbsp;",
+          "button2": "<a data-app-btn=\"true\" href=\"http://www.sztolnialuiza.pl/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WIĘCEJ</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/jaworzyna-600x282.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "JAWORZYNA",
+          "caption3": "Curabitur iaculis leo scelerisque est porta, et feugiat ligula imperdiet. Mauris auctor auctor accumsan. Maecenas malesuada faucibus diam, id vulputate est elementum eu.&nbsp;",
+          "button3": "<a data-app-btn=\"true\" href=\"https://industriatour.pl\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WIĘCEJ</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/zabytkowa-kopalnia-full-600x282.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "ZABYTKOWA KOPALNIA SREBRA W TARNOWSKICH GÓRACH",
+          "caption4": "Aenean rhoncus maximus tristique. Fusce pellentesque dapibus porta. Maecenas ut eros condimentum, fermentum nisi&nbsp;<br><br>",
+          "button4": "<a data-app-btn=\"true\" href=\"http://www.kopalniasrebra.pl/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WIĘCEJ</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "B": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts2-e",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-4-2000x1333.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000000",
+            "googleMap": {
+              "address": "1 Maja 22/1, 40-284 Katowice, ",
+              "placeId": "ChIJ1xoQU8rPFkcRLFnIdZB6XCQ",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>SIEDZIBA:</strong><strong><br></strong><br>INDUSTRIA TOUR Sp. z o. o.<br>ul. 1 Maja 22/1, 40-284 Katowice<br>NIP:9542755188, REGON: 361484679, KRS: 0000557287<br><br><b>BIURO W ZABRZU:</b><br><br>Industria Tour Sp. z o. o.<br>ul. Wolności 262<br>41-800 Zabrze<br><br>\n<strong>KONTAKT:</strong><br><strong><br></strong><strong>Telefon:&nbsp;</strong><b>+48 501 597 255</b><br><br><b>Szukasz wyjątkowego miejsca na event?</b>&nbsp;Pisz na: <a href=\"mailito:event@industriatour.pl\" target=\"_blank\" class=\"text-danger\">event@industriatour.pl</a><br><br><b>Chciałbyś poznać kulturę i dziedzictwo poprzemysłowe Śląska?</b>&nbsp;Pisz na: <a href=\"mailito:wycieczka@industriatour.pl\" target=\"_blank\" class=\"text-danger\">wycieczka@industriatour.pl</a><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>SPECJALIZUJEMY SIĘ W:</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"index.html\" class=\"text-danger\">Wycieczki szkolne i warsztaty edukacyjne </a>&nbsp;</li><li><a href=\"index.html\" class=\"text-danger\">Wycieczki do obiektów postindustrialnych&nbsp;</a></li><li><a href=\"index.html\" class=\"text-danger\">Organizacja imprez komercyjnych</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Oferta",
+        "meta_descr": "Oferta edukacyjna i wycieczki szkolne, Wycieczki do obiektów postindustrialnych \n"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "12px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-f",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/industriatour-logo-m-632x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box5-a\">O NAS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html#msg-box5-h\">OFERTA</a></li>        <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">KLASTER</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box5-c\">PARTNERZY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">ŚLĄSKIE GADŻETY</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-e\" data-toolbar=\"-mbrBtnMove\">KONTAKT</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".btn": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "features1-v",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": "3",
+            "showImages": false,
+            "showTitles": false,
+            "showCaptions": false,
+            "showButtons": true
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "BOOTSTRAP 3",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"page1.html#header1-u\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">WYCIECZKI SZKOLNE I WARSZTATY EDUKACYJNE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "RESPONSIVE",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"page1.html#header1-q\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">WYCIECZKI DO OBIEKTÓW POSTINDUSTRIALNYCH</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "WEB FONTS",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"page1.html#header1-t\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">ORGANIZACJA IMPREZ KOMERCYJNYCH</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "UNLIMITED WEBSITES",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            "DIV": {
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            "P": {
+              "font-size": "17px",
+              "color": "#ffffff"
+            },
+            "H1": {
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            "SPAN": {
+              "text-align": "right"
+            },
+            "B": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "header1-u",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-2000x1333.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "left",
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "title": "Wycieczki szkolne&nbsp;<div>i warsztaty edukacyjne</div><div><br></div>",
+          "text": "<b>Organizujemy wycieczki i warsztaty edukacyjne. Specjalizujemy się <br>w organizowaniu wyjazdów o tematyce postindustrialnej. Z nami poznasz bogatą kulturę oraz postindustrialne dziedzictwo naszego regionu poprzez różnorodne atrakcje i warsztaty tematyczne.<br></b><br>Jesteśmy elastyczni i każdą ofertę możemy dowolnie dostosować do Państwa indywidualnych preferencji. Nasi piloci są znakomicie przygotowani merytorycznie i przekazują ciekawostki i wiedzę w przystępny i dostosowany do grupy wiekowej sposób.<br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "images": [
+              {
+                "caption": "Zwiedzanie Sztolni Królowa Luiza w Zabrzu",
+                "thumb": "@PROJECT_PATH@/assets/images/img-4-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-4-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Wycieczka do Sztolni Królowa Luiza w Zabrzu",
+                "thumb": "@PROJECT_PATH@/assets/images/img-0372-p-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0372-p-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Warsztaty edukacyjne w Sztolni Królowa Luiza w Zabrzu",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Warsztaty Kulturowe w Sztolni Królowa Luiza",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2-2000x1333.jpg",
+                "active": true
+              }
+            ],
+            "showText": true,
+            "fullWidth": false,
+            "noGutter": true,
+            "showBullets": false
+          },
+          "_anchor": "gallery2-o",
+          "articleLayout": true
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "color": "#000000"
+            },
+            ".mbr-article UL": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-x",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": "0",
+            "paddingBottom": 3,
+            "showTitle": false,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "MODERN STYLES",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Korzystamy tylko ze sprawdzonych firm przewozowych więc każdy wyjazd zorganizowany przez nas jest udany i przebiega w miłej atmosferze.</p><p>Stale pracujemy nad przygotowywaniem nowych propozycji – takich, które sprostałyby oczekiwaniom osób lubiących relaks i rozrywkę podczas zwiedzania jak też jak i tych, które poszukują emocji lub ekstremalnych przeżyć.<br></p><p>Teraz tworzymy produkty skierowane do edukacji, których celem jest doświadczenie przez dzieci i młodzież jak ważny dla kultury i historii Śląska był przemysł. W autentycznych obiektach organizujemy zwiedzanie oraz autorskie warsztaty dotyczące kultury i historii śląska (gwary śląskiej, tradycji). &nbsp;</p><p>Zajmujemy się też organizacją wycieczek szkolnych, zakładowych oraz pielgrzymek.</p><p>Proponujemy:</p><ul><li><b>warsztaty i animacje</b></li><li><b>warsztaty kulturowe</b></li><li><b>edukacyjne</b></li><li><b>naukowe</b></li></ul><p>Zachęcamy Państwa do bliższego zapoznania się z naszymi propozycjami, a w przypadku jakichkolwiek pytań –<b><a href=\"page1.html#contacts2-g\" class=\"text-danger\"> kontaktu telefonicznego bądź mailowego</a></b>.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html#features1-v\" data-toolbar=\"-mbrBtnMove\">DO GÓRY</a>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            "P": {
+              "font-size": "17px",
+              "text-align": "right"
+            },
+            "H1": {
+              "text-align": "right",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "header1-q",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1330.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "right",
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "title": "Wycieczki do obiektów postindustrialnych&nbsp;<br><br>",
+          "text": "<b>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at molestie sem, quis finibus est. Etiam lobortis nulla ut justo mollis fringilla. Donec quis dapibus dui, at ultricies nibh. Integer id nunc urna. Sed tristique ligula ac erat tincidunt, ut congue velit vestibulum. Lorem ipsum dolor sit<br></b> <br>amet, consectetur adipiscing elit. Donec sem tortor, lobortis id felis quis, pharetra hendrerit risus. Ut nunc nibh, fringilla a est molestie, mattis imperdiet ipsum. Proin ante purus, venenatis nec lectus ut, porta efficitur tellus. Quisque vel molestie ligula. Fusce efficitur, nibh sit amet efficitur sodales, mi sem pharetra elit, nec placerat felis purus quis lectus. <br><br>Sed scelerisque, mauris ac scelerisque sodales, dui nunc viverra sapien, et efficitur est nisi et mi.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "items": [
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>Wycieczka 1</b></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">Ut in ligula non felis fermentum lobortis at eget nisi. Pellentesque ac felis nisi. Integer nisl nunc, lobortis a libero ut, sollicitudin mattis ipsum. Praesent lobortis ligula massa, eget tincidunt dolor congue eget. Suspendisse sit amet nibh dolor. Quisque vitae nisi sapien. Quisque blandit tincidunt tincidunt. Aenean eu felis et nunc dapibus maximus vitae nec velit. Proin cursus odio orci. Quisque magna urna, rutrum vel condimentum sed, elementum eget urna.</p><p class=\"mbr-reviews__p\"><br></p>",
+              "authorName": "IDEALNA PROPOZYCJA DLA OSÓB Z OGROMNYMI ZASOBAMI ENERGII",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>Wycieczka 2</b></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">Ut in ligula non felis fermentum lobortis at eget nisi. Pellentesque ac felis nisi. Integer nisl nunc, lobortis a libero ut, sollicitudin mattis ipsum. Praesent lobortis ligula massa, eget tincidunt dolor congue eget. Suspendisse sit amet nibh dolor. Quisque vitae nisi sapien. Quisque blandit tincidunt tincidunt. Aenean eu felis et nunc dapibus maximus vitae nec velit. Proin cursus odio orci. Quisque magna urna, rutrum vel condimentum sed, elementum eget urna.</p><p class=\"mbr-reviews__p\"><br></p>",
+              "authorName": "OPCJA DLA OSÓB POSZUKUJĄCYCH NIESAMOWITYCH WRAŻEŃ",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>Wycieczka 3</b></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">Ut in ligula non felis fermentum lobortis at eget nisi. Pellentesque ac felis nisi. Integer nisl nunc, lobortis a libero ut, sollicitudin mattis ipsum. Praesent lobortis ligula massa, eget tincidunt dolor congue eget. Suspendisse sit amet nibh dolor. Quisque vitae nisi sapien. Quisque blandit tincidunt tincidunt. Aenean eu felis et nunc dapibus maximus vitae nec velit. Proin cursus odio orci. Quisque magna urna, rutrum vel condimentum sed, elementum eget urna.</p><p class=\"mbr-reviews__p\"><br></p>",
+              "authorName": "NAJLEPSZA PROPOZYCJA DLA TYCH CO POSZUKUJĄ HARMONII I CHWILI WYTCHNIENIA",
+              "authorBio": "User"
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-reviews__author-name": {
+              "text-align": "center"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>Wycieczka 1</b></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">Ut in ligula non felis fermentum lobortis at eget nisi. Pellentesque ac felis nisi. Integer nisl nunc, lobortis a libero ut, sollicitudin mattis ipsum. Praesent lobortis ligula massa, eget tincidunt dolor congue eget. Suspendisse sit amet nibh dolor. Quisque vitae nisi sapien. Quisque blandit tincidunt tincidunt. Aenean eu felis et nunc dapibus maximus vitae nec velit. Proin cursus odio orci. Quisque magna urna, rutrum vel condimentum sed, elementum eget urna.</p><p class=\"mbr-reviews__p\"><br></p>",
+              "authorName": "IDEALNA PROPOZYCJA DLA OSÓB Z OGROMNYMI ZASOBAMI ENERGII",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>Wycieczka 2</b></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">Ut in ligula non felis fermentum lobortis at eget nisi. Pellentesque ac felis nisi. Integer nisl nunc, lobortis a libero ut, sollicitudin mattis ipsum. Praesent lobortis ligula massa, eget tincidunt dolor congue eget. Suspendisse sit amet nibh dolor. Quisque vitae nisi sapien. Quisque blandit tincidunt tincidunt. Aenean eu felis et nunc dapibus maximus vitae nec velit. Proin cursus odio orci. Quisque magna urna, rutrum vel condimentum sed, elementum eget urna.</p><p class=\"mbr-reviews__p\"><br></p>",
+              "authorName": "OPCJA DLA OSÓB POSZUKUJĄCYCH NIESAMOWITYCH WRAŻEŃ",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>Wycieczka 3</b></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">Ut in ligula non felis fermentum lobortis at eget nisi. Pellentesque ac felis nisi. Integer nisl nunc, lobortis a libero ut, sollicitudin mattis ipsum. Praesent lobortis ligula massa, eget tincidunt dolor congue eget. Suspendisse sit amet nibh dolor. Quisque vitae nisi sapien. Quisque blandit tincidunt tincidunt. Aenean eu felis et nunc dapibus maximus vitae nec velit. Proin cursus odio orci. Quisque magna urna, rutrum vel condimentum sed, elementum eget urna.</p><p class=\"mbr-reviews__p\"><br></p>",
+              "authorName": "NAJLEPSZA PROPOZYCJA DLA TYCH CO POSZUKUJĄ HARMONII I CHWILI WYTCHNIENIA",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials1-r",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "count": 3,
+            "showName": true,
+            "showBio": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "header": "WYCIECZKI WYBRANE DLA CIEBIE:<br><br>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-13",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "showTitle": false,
+            "showText": false,
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "MODERN STYLES",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html#features1-v\" data-toolbar=\"-mbrBtnMove\">DO GÓRY</a>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            "H1": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "header1-t",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-15-2000x1333.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "left",
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "title": "Organizacja imprez komercyjnych<br><br>",
+          "text": "<b>Industria Tour skupia kreatywnych ludzi z pasją, otwartych i pozytywnych, którzy nieustannie dbają o to, by proponowane Państwu atrakcje były nietuzinkowe.<br></b><br>Nasz zespół codziennie poszukuje nowych rozwiązań by zapewnić Klientom wyjątkową oprawę wydarzenia.&nbsp;Mamy wyobraźnię, kreujemy atrakcje z fantazją, zaskakując pomysłowością.<br><br>My odrywamy się od tradycyjnego spojrzenia na wydarzenia firmowe, wybierając te złożone i atrakcyjne formy.<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-y",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "showTitle": false,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "MODERN STYLES",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>U nas w planowaniu eventu liczy się unikalny pomysł oraz świetna realizacja, by wywrzeć wrażenie na odbiorcach. A do tego... sprawdzona oprawa artystyczna, dobrze dobrane miejsce  i sukces waszego spotkania firmowego gwarantowany. My wiemy jak pobudzać emocje, zaskakiwać i inspirować, by wasz event zapadł uczestnikom w pamięć.</p><p>Potrafimy właściwie dopasować koncepcję eventu do jego odbiorców i ich oczekiwań.</p><p>Organizujemy imprezy firmowe proponując wydarzenia incentive w nietuzinkowych miejscach również związanych z obiektami poprzemysłowymi.</p><p><br></p><p><b>Oferta MICE (meetings, incentives, conferences, events)</b></p><p>Branża MICE, czyli spotkania, motywacja, konferencje, wydarzenia firmowe.&nbsp;</p><p>Wydarzenia firmowe są narzędziem prezentowania wizerunku marki, promocji, inicjowania pozytywnych relacji w zespole i z klientami. Dają możliwość skutecznego wybicia się z szumu marketingowego i wzrost rozpoznawalności.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff",
+              "text-align": "right"
+            },
+            ".mbr-article": {
+              "color": "#fff",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-10",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3C3C3C",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "NASZE BESTSELLERY<br>o tematyce wojskowej",
+          "text": "O tematyce wojskowej",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_styles": {
+            "SPAN": {
+              "font-size": "32px"
+            }
+          },
+          "_anchor": "pricing-table1-z",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-17-2000x1333.jpg",
+            "bgColor": "#f0f0f0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "firstType": "default",
+            "showButtons": true,
+            "secondType": "favorite",
+            "thirdType": "hidden",
+            "fourthType": "default",
+            "fifthType": "hidden"
+          },
+          "title1": "",
+          "currency1": "",
+          "price1": "Wozy bojowe",
+          "period1": "przejaz po poligonie już od 1 osoby",
+          "list1": "<ul><li><b>Czas trwania rozgrywki: 45 minut</b></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"page1.html#contacts2-g\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">ZAPISZ SIĘ</a>",
+          "title2": "",
+          "currency2": "",
+          "price2": "Mini poligon",
+          "period2": "od 3 do 15 osób",
+          "list2": "<ul><li><b>Czas trwania rozgrywki: 45 minut</b></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"page1.html#contacts2-g\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">ZAPISZ SIĘ</a>",
+          "title3": "PREMIUM",
+          "currency3": "$",
+          "price3": "0",
+          "period3": "per month",
+          "list3": "<ul><li><b>100 GB</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>50 GB</b> Bandwidth</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title4": "",
+          "currency4": "",
+          "price4": "Gry strategiczne",
+          "period4": "od 3 do 15 osób",
+          "list4": "<ul><li><b>Czas trwania rozgrywki: 45 minut</b></li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"page1.html#contacts2-g\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">ZAPISZ SIĘ</a>",
+          "title5": "EXTENDED",
+          "currency5": "$",
+          "price5": "0",
+          "period5": "per month",
+          "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff",
+              "text-align": "right"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-11",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3C3C3C",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "NASZE BESTSELLERY<div>w podziemiach kopalni</div>",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_styles": {
+            "SPAN": {
+              "font-size": "32px"
+            },
+            "B": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "pricing-table1-12",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-16-2000x1333.jpg",
+            "bgColor": "#f0f0f0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "firstType": "default",
+            "showButtons": true,
+            "secondType": "default",
+            "thirdType": "favorite",
+            "fourthType": "default",
+            "fifthType": "default"
+          },
+          "title1": "",
+          "currency1": "",
+          "price1": "Escape room&nbsp;",
+          "period1": "ROOM",
+          "list1": "<ul><li><font color=\"#000000\">Czas trwania rozgrywki<b>:</b></font></li><li><font color=\"#000000\"><b>&nbsp;45 minut</b></font></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"page1.html#contacts2-g\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">ZAPISZ SIĘ</a>",
+          "title2": "",
+          "currency2": "",
+          "price2": "Horror room",
+          "period2": "ROOM",
+          "list2": "<ul><li><font color=\"#000000\">Czas trwania rozgrywki:<br><b>&nbsp;45 minut</b></font></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"page1.html#contacts2-g\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">ZAPISZ SIĘ</a>",
+          "title3": "",
+          "currency3": "",
+          "price3": "Laser tag",
+          "period3": "Hit!",
+          "list3": "<ul><li><font color=\"#000000\">Czas trwania rozgrywki:</font></li><li><font color=\"#000000\"><b>&nbsp;45 minut</b></font></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"page1.html#contacts2-g\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">ZAPISZ SIĘ</a>",
+          "title4": "",
+          "currency4": "",
+          "price4": "Szychta<br><br><br>",
+          "period4": "Szychta górnicza",
+          "list4": "<ul><li><font color=\"#000000\">Czas trwania rozgrywki:</font></li><li><font color=\"#000000\"><b>&nbsp;45 minut</b></font></li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"page1.html#contacts2-g\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">ZAPISZ SIĘ</a>",
+          "title5": "",
+          "currency5": "",
+          "price5": "Otrzęsiny",
+          "period5": "Otrzęsiny górnicze wraz z biesiadą",
+          "list5": "<ul><li><font color=\"#000000\">Czas trwania rozgrywki:</font></li><li><font color=\"#000000\"><b>&nbsp;45 minut</b></font></li></ul>",
+          "button5": "<a data-app-btn=\"true\" href=\"page1.html#contacts2-g\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">ZAPISZ SIĘ</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-14",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "EVENT SZYTY NA MIARĘ?",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Masz pomysł na własny event i potzrebujesz firmy, która podejmie się organizacji wydarzenia? Dobrze trafiłeś!<a href=\"page1.html#contacts2-g\"> </a><b><a href=\"page1.html#contacts2-g\" class=\"text-danger\">Napisz lub zadzwoń</a></b>, na pewno sprostamy Twoim wymaganiom.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html#features1-v\" data-toolbar=\"-mbrBtnMove\">DO GÓRY</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "B": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts2-g",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-4-2000x1333.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000000",
+            "googleMap": {
+              "address": "1 Maja 22/1, 40-284 Katowice, ",
+              "placeId": "ChIJ1xoQU8rPFkcRLFnIdZB6XCQ",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>SIEDZIBA:</strong><strong><br></strong><br>INDUSTRIA TOUR Sp. z o. o.<br>ul. 1 Maja 22/1, 40-284 Katowice<br>NIP:9542755188, REGON: 361484679, KRS: 0000557287<br><br><b>BIURO W ZABRZU:</b><br><br>Industria Tour Sp. z o. o.<br>ul. Wolności 262<br>41-800 Zabrze<br><br>\n<strong>KONTAKT:</strong><br><strong><br></strong><strong>Telefon:&nbsp;</strong><b>+48 501 597 255</b><br><br><b>Szukasz wyjątkowego miejsca na event?</b>&nbsp;Pisz na: <a href=\"mailito:event@industriatour.pl\" target=\"_blank\" class=\"text-danger\">event@industriatour.pl</a><br><br><b>Chciałbyś poznać kulturę i dziedzictwo poprzemysłowe Śląska?</b>&nbsp;Pisz na: <a href=\"mailito:wycieczka@industriatour.pl\" target=\"_blank\" class=\"text-danger\">wycieczka@industriatour.pl</a><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>SPECJALIZUJEMY SIĘ W:</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"index.html\" class=\"text-danger\">Wycieczki szkolne i warsztaty edukacyjne </a>&nbsp;</li><li><a href=\"index.html\" class=\"text-danger\">Wycieczki do obiektów postindustrialnych&nbsp;</a></li><li><a href=\"index.html\" class=\"text-danger\">Organizacja imprez komercyjnych</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "Klaster",
+        "meta_descr": "ŚLĄSKI KLASTER KULTURY, TURYSTYKI I REKREACJI"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "12px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-15",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/industriatour-logo-m-632x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box5-a\">O NAS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html#msg-box5-h\">OFERTA</a></li>        <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">KLASTER</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box5-c\">PARTNERZY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">ŚLĄSKIE GADŻETY</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-e\" data-toolbar=\"-mbrBtnMove\">KONTAKT</a></li>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff",
+              "font-size": "30px"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-17",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#00b6be",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/logo-bt-1-1400x1025.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "setting",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "ŚLĄSKI KLASTER KULTURY, TURYSTYKI I REKREACJI",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><b>Jesteśmy członkiem „ŚLĄSKIEGO KLASTRA KULTURY, TURYSTYKI I REKREACJI”oraz Stowarzyszenia Centrum Działań Rewitalizacyjnych w Zabrzu.</b></p><p>Stowarzyszenie jest Liderem Śląskiego Klastra Kultury, Turystyki i Rekreacji, w skład którego wchodzą prężnie rozwijające się firmy i instytucje. Uczestnicy Klastra aktywnie i z zaangażowaniem dążą do realizacji wspólnych celów i przedsięwzięć, które polegają na wzmacnianiu konkurencyjności oraz stymulowaniu rozwoju sektora kultury, turystyki i rekreacji w województwie śląskim.</p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-size": "17px"
+            },
+            "H1": {
+              "color": "#000000",
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "header1-18",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x3000.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "left",
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ffffff",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "title": "CEL ŚLĄSKIEGO KLASTRA<br><br>",
+          "text": "<b>ŚLĄSKI KLASTER KULTURY, TURYSTYKI I REKREACJI został powołany jako platforma współdziałania: przedsiębiorstw, instytucji kultury, samorządów, jednostek naukowo-badawczych i instytucji otoczenia biznesu, organizacji pozarządowych działających w obszarach kultury, turystyki i rekreacji na terenie województwa śląskiego.</b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#777777",
+              "font-size": "30px"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#777777"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-19",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "setting3",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true,
+              "color": "#c1c1c1"
+            }
+          },
+          "headerAlign": "left",
+          "title": "INDUSTRIA TOUR JAKO CZŁONEK KLASTRA",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Jako aktywny uczestnik działań w obrębie Klastra mamy na względzie rozwój segmentów kultury, turystyki i rekreacji w województwie śląskim, z uwzględnieniem potencjału przedsiębiorców, instytutów badawczych, uczelni wyższych oraz innych instytucji otoczenia biznesu działających w obszarach (branżach) kulturalnych, turystycznych i rekreacyjnych.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            },
+            "H1": {
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "header1-1a",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-21-2000x1333.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "left",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "title": "CO NAS WYRÓŻNIA?<br><br>",
+          "text": "<b>Jako członek Stowarzyszenia Centrum Rewitalizacji – lidera Klastra, jesteśmy inicjatorem i twórcą projektu \"Turystyka Postindustrialna Górnego Śląska\", w ramach którego nasi klienci mają szansę poznawania i doświadczania kultury i dziedzictwa poprzemysłowego naszego regionu. </b><br><br>Nasza oferta skierowana jest do każdego, kto chce zgłębić swoją wiedzę o Górnym Śląsku, poznać jak rozwój przemysłu na początku XIX wieku wpływał na życie Ślązaków i jak dzięki temu kształtowały się nasze obyczaje, tradycje i codzienność<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1c",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": false,
+            "showText": false,
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "MODERN STYLES",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page2.html#msg-box4-17\" data-toolbar=\"-mbrBtnMove\">DO GÓRY</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "B": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts2-16",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-4-2000x1333.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000000",
+            "googleMap": {
+              "address": "1 Maja 22/1, 40-284 Katowice, ",
+              "placeId": "ChIJ1xoQU8rPFkcRLFnIdZB6XCQ",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>SIEDZIBA:</strong><strong><br></strong><br>INDUSTRIA TOUR Sp. z o. o.<br>ul. 1 Maja 22/1, 40-284 Katowice<br>NIP:9542755188, REGON: 361484679, KRS: 0000557287<br><br><b>BIURO W ZABRZU:</b><br><br>Industria Tour Sp. z o. o.<br>ul. Wolności 262<br>41-800 Zabrze<br><br>\n<strong>KONTAKT:</strong><br><strong><br></strong><strong>Telefon:&nbsp;</strong><b>+48 501 597 255</b><br><br><b>Szukasz wyjątkowego miejsca na event?</b>&nbsp;Pisz na: <a href=\"mailito:event@industriatour.pl\" target=\"_blank\" class=\"text-danger\">event@industriatour.pl</a><br><br><b>Chciałbyś poznać kulturę i dziedzictwo poprzemysłowe Śląska?</b>&nbsp;Pisz na: <a href=\"mailito:wycieczka@industriatour.pl\" target=\"_blank\" class=\"text-danger\">wycieczka@industriatour.pl</a><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>SPECJALIZUJEMY SIĘ W:</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"index.html\" class=\"text-danger\">Wycieczki szkolne i warsztaty edukacyjne </a>&nbsp;</li><li><a href=\"index.html\" class=\"text-danger\">Wycieczki do obiektów postindustrialnych&nbsp;</a></li><li><a href=\"index.html\" class=\"text-danger\">Organizacja imprez komercyjnych</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "Web Maker Title",
+        "meta_descr": "Web Maker Description"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "12px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1d",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/industriatour-logo-m-632x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box5-a\">O NAS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html#msg-box5-h\">OFERTA</a></li>        <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">KLASTER</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box5-c\">PARTNERZY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">ŚLĄSKIE GADŻETY</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-e\" data-toolbar=\"-mbrBtnMove\">KONTAKT</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_styles": {
+            "H1": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#000000",
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "header2-1g",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1440.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "title": "ŚLĄSKIE <br><span style=\"font-family: inherit;\">GADŻETY</span><span style=\"font-family: inherit;\"><br></span><br>",
+          "text": "Odwiedzając obiekty naszych partnerów, <br>możecie sprawdzić, jak pomagamy promować <br>śląską kulturę i zobaczyć, jakie gadżety <br>dla Was przygotowaliśmy...<br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_styles": {
+            "B": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "text-align": "center",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Kredki z nadrukiem dla Kopalni Guido <b>12,99 szt.</b>",
+                "thumb": "@PROJECT_PATH@/assets/images/industria-tour-kredki-wizualizacja-2000x2933-800x1173.jpg",
+                "image": "@PROJECT_PATH@/assets/images/industria-tour-kredki-wizualizacja-2000x2933.jpg",
+                "active": false
+              },
+              {
+                "caption": "Kredki z nadrukiem dla Kopalni Guido <b>12,99 szt.</b>",
+                "thumb": "@PROJECT_PATH@/assets/images/industria-tour-kredki-wizualizacja-2000x2933-800x1173.jpg",
+                "image": "@PROJECT_PATH@/assets/images/industria-tour-kredki-wizualizacja-2000x2933.jpg",
+                "active": false
+              },
+              {
+                "caption": "Kredki z nadrukiem dla Kopalni Guido <b>12,99 szt.</b>",
+                "thumb": "@PROJECT_PATH@/assets/images/industria-tour-kredki-wizualizacja-2000x2933-800x1173.jpg",
+                "image": "@PROJECT_PATH@/assets/images/industria-tour-kredki-wizualizacja-2000x2933.jpg",
+                "active": false
+              },
+              {
+                "caption": "Kredki z nadrukiem dla Kopalni Guido 12,99 szt.",
+                "thumb": "@PROJECT_PATH@/assets/images/industria-tour-kredki-wizualizacja-2000x2933-800x1173.jpg",
+                "image": "@PROJECT_PATH@/assets/images/industria-tour-kredki-wizualizacja-2000x2933.jpg",
+                "active": false
+              },
+              {
+                "caption": "Kredki z nadrukiem dla Kopalni Guido <b>12,99 szt.</b>",
+                "thumb": "@PROJECT_PATH@/assets/images/industria-tour-kredki-wizualizacja-2000x2933-800x1173.jpg",
+                "image": "@PROJECT_PATH@/assets/images/industria-tour-kredki-wizualizacja-2000x2933.jpg",
+                "active": false
+              },
+              {
+                "caption": "Kredki z nadrukiem dla Kopalni Guido <b>12,99 szt.</b>",
+                "thumb": "@PROJECT_PATH@/assets/images/industria-tour-kredki-wizualizacja-2000x2933-800x1173.jpg",
+                "image": "@PROJECT_PATH@/assets/images/industria-tour-kredki-wizualizacja-2000x2933.jpg",
+                "active": false
+              },
+              {
+                "caption": "Kredki z nadrukiem dla Kopalni Guido <b>12,99 szt.</b>",
+                "thumb": "@PROJECT_PATH@/assets/images/industria-tour-kredki-wizualizacja-2000x2933-800x1173.jpg",
+                "image": "@PROJECT_PATH@/assets/images/industria-tour-kredki-wizualizacja-2000x2933.jpg",
+                "active": false
+              },
+              {
+                "caption": "Kredki z nadrukiem dla Kopalni Guido <b>12,99 szt.</b>",
+                "thumb": "@PROJECT_PATH@/assets/images/industria-tour-kredki-wizualizacja-2000x2933-800x1173.jpg",
+                "image": "@PROJECT_PATH@/assets/images/industria-tour-kredki-wizualizacja-2000x2933.jpg",
+                "active": true
+              }
+            ],
+            "showText": true,
+            "bgColor": "#ffffff",
+            "fullWidth": false,
+            "noGutter": false,
+            "showBullets": false
+          },
+          "_anchor": "gallery1-1h",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "color": "#000000",
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1k",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": false,
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "GADŻETY SĄ DO ZDOBYCIA W OBIEKTACH NASZYCH PARTNERÓW",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><b>Gadżety są do zdobycia&nbsp;</b></p><p><b>w obiektach naszych partnerów</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">PRZEJDŹ DO LISTY PARTNERÓW</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "B": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts2-1e",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-4-2000x1333.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000000",
+            "googleMap": {
+              "address": "1 Maja 22/1, 40-284 Katowice, ",
+              "placeId": "ChIJ1xoQU8rPFkcRLFnIdZB6XCQ",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>SIEDZIBA:</strong><strong><br></strong><br>INDUSTRIA TOUR Sp. z o. o.<br>ul. 1 Maja 22/1, 40-284 Katowice<br>NIP:9542755188, REGON: 361484679, KRS: 0000557287<br><br><b>BIURO W ZABRZU:</b><br><br>Industria Tour Sp. z o. o.<br>ul. Wolności 262<br>41-800 Zabrze<br><br>\n<strong>KONTAKT:</strong><br><strong><br></strong><strong>Telefon:&nbsp;</strong><b>+48 501 597 255</b><br><br><b>Szukasz wyjątkowego miejsca na event?</b>&nbsp;Pisz na: <a href=\"mailito:event@industriatour.pl\" target=\"_blank\" class=\"text-danger\">event@industriatour.pl</a><br><br><b>Chciałbyś poznać kulturę i dziedzictwo poprzemysłowe Śląska?</b>&nbsp;Pisz na: <a href=\"mailito:wycieczka@industriatour.pl\" target=\"_blank\" class=\"text-danger\">wycieczka@industriatour.pl</a><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>SPECJALIZUJEMY SIĘ W:</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"index.html\" class=\"text-danger\">Wycieczki szkolne i warsztaty edukacyjne </a>&nbsp;</li><li><a href=\"index.html\" class=\"text-danger\">Wycieczki do obiektów postindustrialnych&nbsp;</a></li><li><a href=\"index.html\" class=\"text-danger\">Organizacja imprez komercyjnych</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
+        }
+      ]
+    }
+  }
+}
