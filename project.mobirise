@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 102,
+    "uniqCompNum": 107,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-industria-128x126.png",
     "noImageResize": "",
@@ -953,7 +953,7 @@
                 "overlayOpacity": "0.5",
                 "overlayColor": "#000000",
                 "showTitle": true,
-                "title": "Wycieczki szkolne <br>i warsztaty edukacyjne &nbsp;",
+                "title": "Wycieczki szkolne<br>i warsztaty edukacyjne &nbsp;",
                 "showText": true,
                 "text": "Z nami poznasz bogatą kulturę oraz postindustrialne dziedzictwo Śląska poprzez różnorodne atrakcje i warsztaty tematyczne.",
                 "showButtons": true,
@@ -994,7 +994,7 @@
                 "showTitle": true,
                 "title": "Poznaj nasze bestsellery&nbsp;",
                 "showText": true,
-                "text": "Wolisz tematykę wojskową, czy preferujesz niesamowitą przygodę w podziemiach kopalni? &nbsp;Nieważne! &nbsp;Mamy ofertę, która zaspokoi napewno sprosta Twoim wymaganiom.",
+                "text": "Nieważne, czy wolisz wyzwanie militarne, czy preferujesz niesamowitą przygodę w podziemiach kopalni. Mamy ofertę, która napewno sprosta Twoim wymaganiom!",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"eventy.html#msg-box1-2f\" data-toolbar=\"-mbrBtnMove\">ZOBACZ NASZE BESTSELLERY</a> "
               }
@@ -1242,7 +1242,7 @@
           ],
           "_name": "buttons1",
           "_anchor": "buttons1-2t",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"industriatour.html#features1-d\" data-toolbar=\"-mbrBtnMove\">POZNAJ NASZYCH PARTNERÓW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"industriatour.html#gallery1-2r\" data-toolbar=\"-mbrBtnMove\">SPRAWDŹ AKTY PRAWNE NASZEJ FIRMY</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"industriatour.html#features1-d\" data-toolbar=\"-mbrBtnMove\">POZNAJ NASZYCH PARTNERÓW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"akty_prawne.html\" data-toolbar=\"-mbrBtnMove\">SPRAWDŹ AKTY PRAWNE NASZEJ FIRMY</a> "
         },
         {
           "_inherit": "msg-box5",
@@ -1601,86 +1601,6 @@
           },
           "text1": "<strong>SIEDZIBA:</strong><strong><br></strong><br>INDUSTRIA TOUR Sp. z o. o.<br>ul. 1 Maja 22/1, 40-284 Katowice<br>NIP:9542755188, REGON: 361484679, KRS: 0000557287<br><br><b>BIURO W ZABRZU:</b><br><br>Industria Tour Sp. z o. o.<br>ul. Wolności 262<br>41-800 Zabrze<br><br>\n<strong>KONTAKT:</strong><br><strong><br></strong><strong>Telefon:&nbsp;</strong><b>+48 501 597 255</b><br><br><b>Szukasz wyjątkowego miejsca na event?</b>&nbsp;Pisz na: <a href=\"mailito:event@industriatour.pl\" target=\"_blank\" class=\"text-danger\">event@industriatour.pl</a><br><br><b>Chciałbyś poznać kulturę i dziedzictwo poprzemysłowe Śląska?</b>&nbsp;Pisz na: <a href=\"mailito:wycieczka@industriatour.pl\" target=\"_blank\" class=\"text-danger\">wycieczka@industriatour.pl</a><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>SPECJALIZUJEMY SIĘ W:</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"wycieczki.html#header1-u\" class=\"text-danger\">Wycieczki szkolne i warsztaty edukacyjne </a>&nbsp;</li><li><a href=\"wycieczki.html#header1-q\" class=\"text-danger\">Wycieczki do obiektów postindustrialnych&nbsp;</a><a href=\"oferta.html#header1-q\" class=\"text-danger\"></a><a href=\"page1.html#header1-q\" class=\"text-danger\"></a><a href=\"index.html\" class=\"text-danger\"></a></li><li><a href=\"oferta.html#header1-t\" class=\"text-danger\">Organizacja imprez komercyjnych</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "images": [
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/scan-certyfikat-gwarancja-ubezpieczeniowa-m-2000x2828-800x1131-2.jpg",
-                "image": "@PROJECT_PATH@/assets/images/scan-certyfikat-gwarancja-ubezpieczeniowa-m-2000x2828.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/rp-aktualny-krs-2000x2902-800x1160-2.jpg",
-                "image": "@PROJECT_PATH@/assets/images/rp-aktualny-krs-2000x2902.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/rp-aktualny-krs-2000x2797-800x1118-2.jpg",
-                "image": "@PROJECT_PATH@/assets/images/rp-aktualny-krs-2000x2797.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/rp-aktualny-krs-2000x2911-800x1164-2.jpg",
-                "image": "@PROJECT_PATH@/assets/images/rp-aktualny-krs-2000x2911.jpg",
-                "active": true
-              }
-            ],
-            "showText": false,
-            "bgColor": "#ffffff",
-            "fullWidth": true,
-            "noGutter": false,
-            "showBullets": false
-          },
-          "_anchor": "gallery1-2q",
-          "articleLayout": false
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "images": [
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/rp-aktualny-krs-2000x2773-800x1109.jpg",
-                "image": "@PROJECT_PATH@/assets/images/rp-aktualny-krs-2000x2773.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/6-2000x2844-800x1137.png",
-                "image": "@PROJECT_PATH@/assets/images/6-2000x2844.png",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/rp-aktualny-krs-2000x2844-800x1137.jpg",
-                "image": "@PROJECT_PATH@/assets/images/rp-aktualny-krs-2000x2844.jpg",
-                "active": true
-              }
-            ],
-            "showText": false,
-            "bgColor": "#ffffff",
-            "fullWidth": true,
-            "noGutter": false,
-            "showBullets": false
-          },
-          "_anchor": "gallery1-2r",
-          "articleLayout": false
         },
         {
           "_styles": {
@@ -2817,6 +2737,49 @@
           "button5": "<a data-app-btn=\"true\" href=\"eventy.html#contacts2-2k\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">ZAPISZ SIĘ</a>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unnamed-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/unnamed-1-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unnamed-1-2000x1334.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-1-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#4c6972",
+            "fullWidth": false,
+            "noGutter": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-2u",
+          "articleLayout": false
+        },
+        {
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center"
@@ -2936,6 +2899,189 @@
           "title": "PRE MADE BLOCKS",
           "text": "Industria Tour Sp. z o.o. &nbsp;2017, wykonanie strony: <a href=\"http://dlasalonu.pl/\" target=\"_blank\" class=\"text-gray\">dlasalonu.pl - reklama w służbie branży zdrowia i urody</a>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>"
+        }
+      ]
+    },
+    "akty_prawne.html": {
+      "settings": {
+        "title": "Akty prawne",
+        "meta_descr": "Website Maker Description"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "12px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2v",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/industriatour-logo-m-632x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Industria Tour",
+              "link": "industriatour.html",
+              "title": "Wycieczki postindustrialne, warsztaty edukacyjne, eventy firmowe",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"industriatour.html#msg-box5-a\">O NAS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"wycieczki.html\">WYCIECZKI</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"eventy.html\">EVENTY</a></li>        <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"klaster.html\">KLASTER</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"slaskie_gadzety.html\">ŚLĄSKIE GADŻETY</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"industriatour.html#contacts2-e\" data-toolbar=\"-mbrBtnMove\">KONTAKT</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-certyfikat-gwarancja-ubezpieczeniowa-m-2000x2828-800x1131-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scan-certyfikat-gwarancja-ubezpieczeniowa-m-2000x2828.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/rp-aktualny-krs-2000x2902-800x1160-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rp-aktualny-krs-2000x2902.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/rp-aktualny-krs-2000x2797-800x1118-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rp-aktualny-krs-2000x2797.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/rp-aktualny-krs-2000x2911-800x1164-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rp-aktualny-krs-2000x2911.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#ffffff",
+            "fullWidth": true,
+            "noGutter": false,
+            "showBullets": false
+          },
+          "_anchor": "gallery1-2x",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/rp-aktualny-krs-2000x2773-800x1109.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rp-aktualny-krs-2000x2773.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/6-2000x2844-800x1137.png",
+                "image": "@PROJECT_PATH@/assets/images/6-2000x2844.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/rp-aktualny-krs-2000x2844-800x1137.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rp-aktualny-krs-2000x2844.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#ffffff",
+            "fullWidth": true,
+            "noGutter": false,
+            "showBullets": false
+          },
+          "_anchor": "gallery1-2y",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "B": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts2-2w",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-4-2000x1333.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000000",
+            "googleMap": {
+              "address": "1 Maja 22/1, 40-284 Katowice, ",
+              "placeId": "ChIJ1xoQU8rPFkcRLFnIdZB6XCQ",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>SIEDZIBA:</strong><strong><br></strong><br>INDUSTRIA TOUR Sp. z o. o.<br>ul. 1 Maja 22/1, 40-284 Katowice<br>NIP:9542755188, REGON: 361484679, KRS: 0000557287<br><br><b>BIURO W ZABRZU:</b><br><br>Industria Tour Sp. z o. o.<br>ul. Wolności 262<br>41-800 Zabrze<br><br>\n<strong>KONTAKT:</strong><br><strong><br></strong><strong>Telefon:&nbsp;</strong><b>+48 501 597 255</b><br><br><b>Szukasz wyjątkowego miejsca na event?</b>&nbsp;Pisz na: <a href=\"mailito:event@industriatour.pl\" target=\"_blank\" class=\"text-danger\">event@industriatour.pl</a><br><br><b>Chciałbyś poznać kulturę i dziedzictwo poprzemysłowe Śląska?</b>&nbsp;Pisz na: <a href=\"mailito:wycieczka@industriatour.pl\" target=\"_blank\" class=\"text-danger\">wycieczka@industriatour.pl</a><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>SPECJALIZUJEMY SIĘ W:</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"wycieczki.html#header1-u\" class=\"text-danger\">Wycieczki szkolne i warsztaty edukacyjne </a>&nbsp;</li><li><a href=\"wycieczki.html#header1-q\" class=\"text-danger\">Wycieczki do obiektów postindustrialnych&nbsp;</a><a href=\"oferta.html#header1-q\" class=\"text-danger\"></a><a href=\"page1.html#header1-q\" class=\"text-danger\"></a><a href=\"index.html\" class=\"text-danger\"></a></li><li><a href=\"oferta.html#header1-t\" class=\"text-danger\">Organizacja imprez komercyjnych</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
         }
       ]
     }
