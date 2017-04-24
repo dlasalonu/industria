@@ -26,6 +26,12 @@
 #msg-box4-17 .mbr-article {
   color: #ffffff;
 }
+#header1-1a P {
+  font-size: 17px;
+}
+#header1-1a H1 {
+  font-size: 30px;
+}
 #header1-18 P {
   color: #000000;
   font-size: 17px;
@@ -46,12 +52,7 @@
 }
 #msg-box4-19 .mbr-article P {
   color: #777777;
-}
-#header1-1a P {
-  font-size: 17px;
-}
-#header1-1a H1 {
-  font-size: 30px;
+  text-align: left;
 }
 #msg-box3-1c .mbr-header .mbr-header__text {
   text-align: center;
@@ -67,6 +68,7 @@
 }
 #contacts2-16 P {
   color: #ffffff;
+  font-size: 16px;
 }
 #msg-box1-1v .mbr-header .mbr-header__text {
   color: #fff;
@@ -144,6 +146,7 @@
 }
 #contacts2-1e P {
   color: #ffffff;
+  font-size: 16px;
 }
 #msg-box1-1w .mbr-header .mbr-header__text {
   color: #fff;
@@ -198,6 +201,18 @@
   text-align: left;
   font-size: 20px;
 }
+#msg-box5-3c .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-3c .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-3c .mbr-article {
+  color: #ffffff;
+}
+#msg-box5-3c .mbr-article P {
+  font-size: 30px;
+}
 #msg-box4-b .mbr-header__text {
   color: #ffffff;
   font-family: 'Roboto', sans-serif;
@@ -228,6 +243,9 @@
 #features1-d .mbr-section__col .mbr-header__text {
   text-align: center;
 }
+#features1-2z .mbr-section__col .mbr-header__text {
+  text-align: center;
+}
 #contacts2-e B {
   color: #ffffff;
 }
@@ -236,6 +254,7 @@
 }
 #contacts2-e P {
   color: #ffffff;
+  font-size: 16px;
 }
 #msg-box1-2s .mbr-header .mbr-header__text {
   color: #fff;
@@ -304,18 +323,18 @@
   text-align: right;
   color: #ffffff;
 }
-#content1-1l P {
-  color: #000000;
-  font-size: 17px;
-}
-#content1-1l B {
-  color: #000000;
-}
 #testimonials1-r .mbr-reviews__author-name {
   text-align: center;
 }
 #testimonials1-r .mbr-reviews__text P {
   font-size: 16px;
+  color: #000000;
+}
+#content1-1l P {
+  color: #000000;
+  font-size: 17px;
+}
+#content1-1l B {
   color: #000000;
 }
 #testimonials1-1m .mbr-reviews__text P {
@@ -345,6 +364,7 @@
 }
 #contacts2-g P {
   color: #ffffff;
+  font-size: 16px;
 }
 #msg-box1-1u .mbr-header .mbr-header__text {
   color: #fff;
@@ -431,6 +451,7 @@
 }
 #contacts2-2k P {
   color: #ffffff;
+  font-size: 16px;
 }
 #msg-box1-2l .mbr-header .mbr-header__text {
   color: #fff;
@@ -465,4 +486,5 @@
 }
 #contacts2-2w P {
   color: #ffffff;
+  font-size: 16px;
 }
