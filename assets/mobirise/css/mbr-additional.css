@@ -330,6 +330,21 @@
 #pricing-table1-3h SPAN {
   font-size: 32px;
 }
+#pricing-table1-3h H3 {
+  color: #f97352;
+}
+#pricing-table1-3h DIV {
+  font-size: 15px;
+}
+#pricing-table1-3h .mbr-plan__details UL {
+  font-size: 14px;
+}
+#pricing-table1-3h B {
+  color: #333333;
+}
+#pricing-table1-3h UL {
+  font-size: 15px;
+}
 #content1-3r P {
   color: #000000;
   font-size: 17px;
@@ -403,6 +418,9 @@
   text-align: center;
 }
 #msg-box3-2e .mbr-article P {
+  color: #000000;
+}
+#msg-box3-2e .mbr-article UL {
   color: #000000;
 }
 #msg-box1-2f .mbr-header .mbr-header__text {

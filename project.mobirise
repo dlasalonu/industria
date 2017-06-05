@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 107,
+    "uniqCompNum": 138,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-industria-128x126.png",
     "noImageResize": "",
@@ -79,7 +79,7 @@
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"industriatour.html#msg-box5-a\">O NAS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"wycieczki.html\">WYCIECZKI</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"eventy.html\">EVENTY</a></li>        <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"klaster.html\">KLASTER</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"slaskie_gadzety.html\">ŚLĄSKIE GADŻETY</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"industriatour.html#contacts2-e\" data-toolbar=\"-mbrBtnMove\">KONTAKT</a></li>"
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"industriatour.html#contacts2-e\" data-toolbar=\"-mbrBtnMove\">KONTAKT</a></li> "
         },
         {
           "_inherit": "msg-box5",
@@ -152,7 +152,45 @@
           "title": "ŚLĄSKI KLASTER KULTURY, TURYSTYKI I REKREACJI",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p><b>Jesteśmy członkiem „ŚLĄSKIEGO KLASTRA KULTURY, TURYSTYKI I REKREACJI”oraz Stowarzyszenia Centrum Działań Rewitalizacyjnych w Zabrzu.</b></p><p>Stowarzyszenie jest Liderem Śląskiego Klastra Kultury, Turystyki i Rekreacji, w skład którego wchodzą prężnie rozwijające się firmy i instytucje. Uczestnicy Klastra aktywnie i z zaangażowaniem dążą do realizacji wspólnych celów i przedsięwzięć, które polegają na wzmacnianiu konkurencyjności oraz stymulowaniu rozwoju sektora kultury, turystyki i rekreacji w województwie śląskim.</p><p><br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www.slaskiklaster.pl/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PRZEJDŹ DO STRONY KLASTRA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www.instytutwyszehradzki.pl./\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PRZEJDŹ DO STRONY STOWARZYSZENIA</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www.slaskiklaster.pl/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PRZEJDŹ DO STRONY KLASTRA</a> "
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            },
+            "H1": {
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "header1-1a",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-21-2000x1333.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "left",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "title": "CO NAS WYRÓŻNIA?<br><br>",
+          "text": "<b>Jako członek Klastra, jesteśmy inicjatorem i twórcą projektu \"Turystyka Postindustrialna Górnego Śląska\", w ramach którego nasi klienci mają szansę poznawania i doświadczania kultury i dziedzictwa poprzemysłowego naszego regionu. </b><br><br>Nasza oferta skierowana jest do każdego, kto chce zgłębić swoją wiedzę o Górnym Śląsku, poznać jak rozwój przemysłu na początku XIX wieku wpływał na życie Ślązaków i jak dzięki temu kształtowały się nasze obyczaje, tradycje i codzienność<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -181,7 +219,7 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "contentAlign": "left",
+            "contentAlign": "right",
             "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#ffffff",
@@ -211,7 +249,8 @@
               "color": "#ffffff"
             },
             ".mbr-article P": {
-              "color": "#777777"
+              "color": "#777777",
+              "text-align": "left"
             }
           },
           "_name": "msg-box4",
@@ -268,44 +307,6 @@
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_styles": {
-            "P": {
-              "font-size": "17px"
-            },
-            "H1": {
-              "font-size": "30px"
-            }
-          },
-          "_anchor": "header1-1a",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-21-2000x1333.jpg",
-            "bgColor": "#4c6972",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "contentAlign": "left",
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": false
-          },
-          "title": "CO NAS WYRÓŻNIA?<br><br>",
-          "text": "<b>Jako członek Stowarzyszenia Centrum Rewitalizacji – lidera Klastra, jesteśmy inicjatorem i twórcą projektu \"Turystyka Postindustrialna Górnego Śląska\", w ramach którego nasi klienci mają szansę poznawania i doświadczania kultury i dziedzictwa poprzemysłowego naszego regionu. </b><br><br>Nasza oferta skierowana jest do każdego, kto chce zgłębić swoją wiedzę o Górnym Śląsku, poznać jak rozwój przemysłu na początku XIX wieku wpływał na życie Ślązaków i jak dzięki temu kształtowały się nasze obyczaje, tradycje i codzienność<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
-        },
-        {
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center"
@@ -359,20 +360,21 @@
               "color": "#ffffff"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "16px"
             }
           },
-          "_anchor": "contacts2-16",
+          "_anchor": "contacts2-2w",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-4-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333.jpg",
             "bgColor": "#000000",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0.5",
             "overlayColor": "#000000",
             "googleMap": {
               "address": "1 Maja 22/1, 40-284 Katowice, ",
@@ -381,8 +383,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>SIEDZIBA:</strong><strong><br></strong><br>INDUSTRIA TOUR Sp. z o. o.<br>ul. 1 Maja 22/1, 40-284 Katowice<br>NIP:9542755188, REGON: 361484679, KRS: 0000557287<br><br><b>BIURO W ZABRZU:</b><br><br>Industria Tour Sp. z o. o.<br>ul. Wolności 262<br>41-800 Zabrze<br><br>\n<strong>KONTAKT:</strong><br><strong><br></strong><strong>Telefon:&nbsp;</strong><b>+48 501 597 255</b><br><br><b>Szukasz wyjątkowego miejsca na event?</b>&nbsp;Pisz na: <a href=\"mailito:event@industriatour.pl\" target=\"_blank\" class=\"text-danger\">event@industriatour.pl</a><br><br><b>Chciałbyś poznać kulturę i dziedzictwo poprzemysłowe Śląska?</b>&nbsp;Pisz na: <a href=\"mailito:wycieczka@industriatour.pl\" target=\"_blank\" class=\"text-danger\">wycieczka@industriatour.pl</a><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>SPECJALIZUJEMY SIĘ W:</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"wycieczki.html#header1-u\" class=\"text-danger\">Wycieczki szkolne i warsztaty edukacyjne </a>&nbsp;</li><li><a href=\"wycieczki.html#header1-q\" class=\"text-danger\">Wycieczki do obiektów postindustrialnych&nbsp;</a><a href=\"oferta.html#header1-q\" class=\"text-danger\"></a><a href=\"page1.html#header1-q\" class=\"text-danger\"></a><a href=\"index.html\" class=\"text-danger\"></a></li><li><a href=\"oferta.html#header1-t\" class=\"text-danger\">Organizacja imprez komercyjnych</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
+          "text1": "<b>KONTAKT:</b><br><br>Telefon: <b>+48 501 597 255</b><br><br><b>Szukasz wyjątkowego miejsca na event?</b> Pisz na: <a href=\"mailto:event@industriatour.pl\" class=\"text-danger\">event@industriatour.pl</a><br><br><b>Chciałbyś poznać kulturę i dziedzictwo poprzemysłowe Śląska?</b> Pisz na: <a href=\"mailto:wycieczka@industriatour.pl\" class=\"text-danger\">wycieczka@industriatour.pl</a><br><br><strong>SIEDZIBA:</strong><strong><br></strong><br>INDUSTRIA TOUR Sp. z o. o.<br>ul. 1 Maja 22/1, 40-284 Katowice<br>NIP: 9542755188, <br>REGON: 361484679, KRS: 0000557287<br><br><b>BIURO W ZABRZU:</b><br><br>Industria Tour Sp. z o. o.<br>ul. Wolności 262<br>41-800 Zabrze<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>SPECJALIZUJEMY SIĘ W:</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"wycieczki.html#header1-u\" class=\"text-danger\">Wycieczki szkolne i warsztaty edukacyjne </a>&nbsp;</li><li><a href=\"wycieczki.html#header1-q\" class=\"text-danger\">Wycieczki do obiektów postindustrialnych&nbsp;</a><a href=\"oferta.html#header1-q\" class=\"text-danger\"></a><a href=\"page1.html#header1-q\" class=\"text-danger\"></a><a href=\"index.html\" class=\"text-danger\"></a></li><li><a href=\"eventy.html\" class=\"text-danger\">Organizacja imprez</a></li></ul><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>"
         },
         {
           "_styles": {
@@ -427,7 +429,7 @@
     },
     "slaskie_gadzety.html": {
       "settings": {
-        "title": "Web Maker Title",
+        "title": "Slaskie_gadzety",
         "meta_descr": "Web Maker Description",
         "order": 5
       },
@@ -487,7 +489,7 @@
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"industriatour.html#msg-box5-a\">O NAS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"wycieczki.html\">WYCIECZKI</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"eventy.html\">EVENTY</a></li>        <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"klaster.html\">KLASTER</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"slaskie_gadzety.html\">ŚLĄSKIE GADŻETY</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"industriatour.html#contacts2-e\" data-toolbar=\"-mbrBtnMove\">KONTAKT</a></li>"
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"industriatour.html#contacts2-e\" data-toolbar=\"-mbrBtnMove\">KONTAKT</a></li> "
         },
         {
           "_inherit": "header1",
@@ -569,16 +571,16 @@
                 "caption": "Przybornik z nadrukiem Sztolni Królowa Luiza",
                 "thumb": "@PROJECT_PATH@/assets/images/naklejki-luiza-2000x2933-800x1173.jpg",
                 "image": "@PROJECT_PATH@/assets/images/naklejki-luiza-2000x2933.jpg",
-                "active": true
+                "active": false
               },
               {
-                "caption": "Przybornik z nadrukiem Kopalni Guido&nbsp;",
+                "caption": "Zakładka do książki z nadrukiem Kopalni Guido&nbsp;",
                 "thumb": "@PROJECT_PATH@/assets/images/naklejki2-guido-2000x2933-800x1173.jpg",
                 "image": "@PROJECT_PATH@/assets/images/naklejki2-guido-2000x2933.jpg",
                 "active": false
               },
               {
-                "caption": "Przybornik z nadrukiem Sztolni Królowa Luiza<br>",
+                "caption": "Zakładka do książki z nadrukiem Sztolni Królowa Luiza<br>",
                 "thumb": "@PROJECT_PATH@/assets/images/naklejki2-luiza-2000x2933-800x1173.jpg",
                 "image": "@PROJECT_PATH@/assets/images/naklejki2-luiza-2000x2933.jpg",
                 "active": false
@@ -608,13 +610,13 @@
                 "active": false
               },
               {
-                "caption": "Kredki z nadrukiem dla Kopalni Guido",
+                "caption": "Domino dla Kopalni Guido",
                 "thumb": "@PROJECT_PATH@/assets/images/piornik2-guido-2000x1363-800x545.jpg",
                 "image": "@PROJECT_PATH@/assets/images/piornik2-guido-2000x1363.jpg",
                 "active": false
               },
               {
-                "caption": "Kredki z nadrukiem dla Sztolni Królowa Luiza",
+                "caption": "Domino dla Sztolni Królowa Luiza",
                 "thumb": "@PROJECT_PATH@/assets/images/piornik2-luizo-2000x1363-800x545.jpg",
                 "image": "@PROJECT_PATH@/assets/images/piornik2-luizo-2000x1363.jpg",
                 "active": false
@@ -666,6 +668,42 @@
                 "thumb": "@PROJECT_PATH@/assets/images/zawieszka-luiza-2000x1363-800x545.jpg",
                 "image": "@PROJECT_PATH@/assets/images/zawieszka-luiza-2000x1363.jpg",
                 "active": false
+              },
+              {
+                "caption": "Świeca szyb Kopalni Guido",
+                "thumb": "@PROJECT_PATH@/assets/images/swieczka-guido-2000x1364-800x545.jpg",
+                "image": "@PROJECT_PATH@/assets/images/swieczka-guido-2000x1364.jpg",
+                "active": false
+              },
+              {
+                "caption": "Świeca bryła węgla",
+                "thumb": "@PROJECT_PATH@/assets/images/swieca-bryla-wegla-1-2000x1364-800x545.jpg",
+                "image": "@PROJECT_PATH@/assets/images/swieca-bryla-wegla-1-2000x1364.jpg",
+                "active": false
+              },
+              {
+                "caption": "Świeca kask",
+                "thumb": "@PROJECT_PATH@/assets/images/swieczka-kask-2000x1364-800x545.jpg",
+                "image": "@PROJECT_PATH@/assets/images/swieczka-kask-2000x1364.jpg",
+                "active": false
+              },
+              {
+                "caption": "Biżuteria hand made ślonski wongiel - polskie srebro",
+                "thumb": "@PROJECT_PATH@/assets/images/bizuteria-handmade-2000x1364-800x545.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bizuteria-handmade-2000x1364.jpg",
+                "active": false
+              },
+              {
+                "caption": "Brelok Pyrlik i Żelosko<br>",
+                "thumb": "@PROJECT_PATH@/assets/images/brelok-kupla-2000x1364-800x545.jpg",
+                "image": "@PROJECT_PATH@/assets/images/brelok-kupla-2000x1364.jpg",
+                "active": false
+              },
+              {
+                "caption": "Magnes Kopalnia Guido<br>",
+                "thumb": "@PROJECT_PATH@/assets/images/magnes-kopalnia-guido-2000x1364-800x545.jpg",
+                "image": "@PROJECT_PATH@/assets/images/magnes-kopalnia-guido-2000x1364.jpg",
+                "active": true
               }
             ],
             "showText": true,
@@ -790,7 +828,8 @@
               "color": "#ffffff"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "16px"
             }
           },
           "_anchor": "contacts2-1e",
@@ -799,11 +838,11 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-4-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333.jpg",
             "bgColor": "#000000",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0.5",
             "overlayColor": "#000000",
             "googleMap": {
               "address": "1 Maja 22/1, 40-284 Katowice, ",
@@ -812,8 +851,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>SIEDZIBA:</strong><strong><br></strong><br>INDUSTRIA TOUR Sp. z o. o.<br>ul. 1 Maja 22/1, 40-284 Katowice<br>NIP:9542755188, REGON: 361484679, KRS: 0000557287<br><br><b>BIURO W ZABRZU:</b><br><br>Industria Tour Sp. z o. o.<br>ul. Wolności 262<br>41-800 Zabrze<br><br>\n<strong>KONTAKT:</strong><br><strong><br></strong><strong>Telefon:&nbsp;</strong><b>+48 501 597 255</b><br><br><b>Szukasz wyjątkowego miejsca na event?</b>&nbsp;Pisz na: <a href=\"mailito:event@industriatour.pl\" target=\"_blank\" class=\"text-danger\">event@industriatour.pl</a><br><br><b>Chciałbyś poznać kulturę i dziedzictwo poprzemysłowe Śląska?</b>&nbsp;Pisz na: <a href=\"mailito:wycieczka@industriatour.pl\" target=\"_blank\" class=\"text-danger\">wycieczka@industriatour.pl</a><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>SPECJALIZUJEMY SIĘ W:</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"wycieczki.html#header1-u\" class=\"text-danger\">Wycieczki szkolne i warsztaty edukacyjne </a>&nbsp;</li><li><a href=\"wycieczki.html#header1-q\" class=\"text-danger\">Wycieczki do obiektów postindustrialnych&nbsp;</a><a href=\"oferta.html#header1-q\" class=\"text-danger\"></a><a href=\"page1.html#header1-q\" class=\"text-danger\"></a><a href=\"index.html\" class=\"text-danger\"></a></li><li><a href=\"oferta.html#header1-t\" class=\"text-danger\">Organizacja imprez komercyjnych</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
+          "text1": "<b>KONTAKT:</b><br><br>Telefon: <b>+48 501 597 255</b><br><br><b>Szukasz wyjątkowego miejsca na event?</b> Pisz na: <a href=\"mailto:event@industriatour.pl\" class=\"text-danger\">event@industriatour.pl</a><br><br><b>Chciałbyś poznać kulturę i dziedzictwo poprzemysłowe Śląska?</b> Pisz na: <a href=\"mailto:wycieczka@industriatour.pl\" class=\"text-danger\">wycieczka@industriatour.pl</a><br><br><strong>SIEDZIBA:</strong><strong><br></strong><br>INDUSTRIA TOUR Sp. z o. o.<br>ul. 1 Maja 22/1, 40-284 Katowice<br>NIP: 9542755188, <br>REGON: 361484679, KRS: 0000557287<br><br><b>BIURO W ZABRZU:</b><br><br>Industria Tour Sp. z o. o.<br>ul. Wolności 262<br>41-800 Zabrze<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>SPECJALIZUJEMY SIĘ W:</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"wycieczki.html#header1-u\" class=\"text-danger\">Wycieczki szkolne i warsztaty edukacyjne </a>&nbsp;</li><li><a href=\"wycieczki.html#header1-q\" class=\"text-danger\">Wycieczki do obiektów postindustrialnych&nbsp;</a><a href=\"oferta.html#header1-q\" class=\"text-danger\"></a><a href=\"page1.html#header1-q\" class=\"text-danger\"></a><a href=\"index.html\" class=\"text-danger\"></a></li><li><a href=\"eventy.html\" class=\"text-danger\">Organizacja imprez</a></li></ul><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>"
         },
         {
           "_styles": {
@@ -922,7 +961,7 @@
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"industriatour.html#msg-box5-a\">O NAS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"wycieczki.html\">WYCIECZKI</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"eventy.html\">EVENTY</a></li>        <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"klaster.html\">KLASTER</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"slaskie_gadzety.html\">ŚLĄSKIE GADŻETY</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"industriatour.html#contacts2-e\" data-toolbar=\"-mbrBtnMove\">KONTAKT</a></li>"
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"industriatour.html#contacts2-e\" data-toolbar=\"-mbrBtnMove\">KONTAKT</a></li> "
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -942,29 +981,29 @@
           },
           "_params": {
             "autoplay": true,
-            "paddingTop": 3,
+            "paddingTop": "4",
             "paddingBottom": 3,
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wycieczki-szkolne-i-warszaty-2000x868.jpg",
                 "contentAlign": "right",
                 "overlay": true,
-                "overlayOpacity": "0.5",
+                "overlayOpacity": "0.2",
                 "overlayColor": "#000000",
                 "showTitle": true,
-                "title": "Wycieczki szkolne<br>i warsztaty edukacyjne &nbsp;",
+                "title": "Wycieczki szkolne&nbsp;<br>i warsztaty&nbsp;edukacyjne &nbsp;",
                 "showText": true,
-                "text": "Z nami poznasz bogatą kulturę oraz postindustrialne dziedzictwo Śląska poprzez różnorodne atrakcje i warsztaty tematyczne.",
+                "text": "Z nami poznasz bogatą kulturę oraz postindustrialne dziedzictwo Śląska poprzez różnorodne atrakcje <br>i warsztaty tematyczne.",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"wycieczki.html#header1-u\" data-toolbar=\"-mbrBtnMove\">DOWIEDZ SIĘ WIĘCEJ</a> "
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1125.jpg",
+                "image": "@PROJECT_PATH@/assets/images/walcownia-maszyna-parowa-2000x1333.jpg",
                 "contentAlign": "right",
                 "overlay": true,
-                "overlayOpacity": "0.7",
+                "overlayOpacity": "0.5",
                 "showTitle": true,
                 "title": "Wycieczki do obiektów postindustrialnych&nbsp;",
                 "showText": true,
@@ -973,28 +1012,28 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"wycieczki.html#header1-q\" data-toolbar=\"-mbrBtnMove\">ZAPOZNAJ SIĘ Z OFERTĄ</a> "
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/fotolia-70235633-m-2000x1332.jpg",
                 "contentAlign": "right",
                 "overlay": true,
-                "overlayOpacity": "0.7",
+                "overlayOpacity": "0.5",
                 "showTitle": true,
-                "title": "Organizacja imprez komercyjnych",
+                "title": "Organizacja imprez&nbsp;",
                 "showText": true,
                 "text": "Organizujesz wydarzenie, konferencję lub spotkanie i szukasz osób, które zapewnią wyjątkową oprawę Twojego eventu? Dobrze trafiłeś!",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"eventy.html\" data-toolbar=\"-mbrBtnMove\">SPRAWDŹ CO POTRAFIMY</a> "
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/mbr-16-2000x1333.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/dsc-2000x1361.jpg",
                 "contentAlign": "right",
                 "overlay": true,
-                "overlayOpacity": "0.7",
+                "overlayOpacity": "0.5",
                 "showTitle": true,
                 "title": "Poznaj nasze bestsellery&nbsp;",
                 "showText": true,
-                "text": "Nieważne, czy wolisz wyzwanie militarne, czy preferujesz niesamowitą przygodę w podziemiach kopalni. Mamy ofertę, która napewno sprosta Twoim wymaganiom!",
+                "text": "Nieważne, czy wolisz wyzwanie militarne, czy preferujesz niesamowitą przygodę w podziemiach lub w otoczeniu parowozów. Mamy ofertę, która napewno sprosta Twoim wymaganiom!",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"eventy.html#msg-box1-2f\" data-toolbar=\"-mbrBtnMove\">ZOBACZ NASZE BESTSELLERY</a> "
               }
@@ -1153,7 +1192,7 @@
             }
           },
           "title2": "OBECNIE WSPÓŁPRACUJEMY",
-          "caption2": "Nasza współpraca z:<br><br>•<b> obiektami Szlaku Zabytków Techniki<br>• podmiotami zrzeszonymi w ramach Śląskiego Klastra Kultury Turystyki i Rekreacji<br>• podmiotami  zrzeszonymi w ramach Stowarzyszenia Centrum Działań Rewitalizacyjnych</b><br>zaowocowała zainicjowaniem przez naszą firmę projektu „Turystyka Postindustrialna Górnego Śląska”.&nbsp;<br><br>Dzięki staraniom naszym i naszych partnerów została stworzona szeroka gama wycieczek i wyjazdów kilkudniowych prezentujących walory dziedzictwa poprzemysłowego naszego regionu.<br>",
+          "caption2": "Nasza współpraca z:<br><br>•<b> obiektami Szlaku Zabytków Techniki<br>• podmiotami zrzeszonymi w ramach Śląskiego Klastra Kultury Turystyki i Rekreacji<br>• podmiotami  zrzeszonymi w ramach Stowarzyszenia Centrum Działań Rewitalizacyjnych</b><br>zaowocowała zainicjowaniem przez naszą firmę projektu „<i>Turystyka Postindustrialna Górnego Śląska</i>”.&nbsp;<br><br>Dzięki staraniom naszym i naszych partnerów została stworzona szeroka gama wycieczek i wyjazdów kilkudniowych prezentujących walory dziedzictwa poprzemysłowego naszego regionu.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -1243,6 +1282,73 @@
           "_name": "buttons1",
           "_anchor": "buttons1-2t",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"industriatour.html#features1-d\" data-toolbar=\"-mbrBtnMove\">POZNAJ NASZYCH PARTNERÓW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"akty_prawne.html\" data-toolbar=\"-mbrBtnMove\">SPRAWDŹ AKTY PRAWNE NASZEJ FIRMY</a> "
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-3c",
+          "_params": {
+            "imageSize": "21",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/facebook-flat-vector-logo-1-1400x1400.png",
+              "link": "https://www.facebook.com/industriatour/?fref=ts",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true,
+              "active": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "Kilka słów o nas",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><b><br></b></p><p><b>Dołącz do nas na Facebooku i bądź na bieżąco!</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -1403,7 +1509,7 @@
           "_anchor": "features1-d",
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -1418,11 +1524,11 @@
             "overlayColor": "#222",
             "showHeader": false,
             "showSubheader": false,
-            "columns": 4,
+            "columns": "4",
             "showImages": true,
             "showTitles": false,
             "showCaptions": false,
-            "showButtons": true
+            "showButtons": false
           },
           "headerAlign": "left",
           "header": "DROP-DEAD EASY WEBSITE MAKER",
@@ -1478,7 +1584,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/jaworzyna-600x282.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-sztolnia-dziedziczna-600x313.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1498,11 +1604,11 @@
           },
           "title3": "JAWORZYNA<br>TOUR<br><br>",
           "caption3": "Curabitur iaculis leo scelerisque est porta, et feugiat ligula imperdiet. Mauris auctor auctor accumsan. Maecenas malesuada faucibus diam, id vulputate est elementum eu.&nbsp;",
-          "button3": "<a data-app-btn=\"true\" href=\"http://www.swiatmarzen.pl/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WIĘCEJ</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://kopalniaguido.pl/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WIĘCEJ</a>",
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/zabytkowa-kopalnia-full-600x282.png",
+              "src": "@PROJECT_PATH@/assets/images/tichnauer-logo-600x282.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1526,9 +1632,13 @@
           "media5": {
             "image": {
               "active": true,
-              "src": "images/blocks.png",
+              "src": "@PROJECT_PATH@/assets/images/unnamed-600x276.png",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "class": "mbr-figure__img",
@@ -1542,13 +1652,17 @@
           },
           "title5": "TRENDY WEBSITE BLOCKS",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"http://www.muzeatechniki.pl/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WIĘCEJ</a>",
           "media6": {
             "image": {
               "active": true,
-              "src": "images/host.png",
+              "src": "@PROJECT_PATH@/assets/images/parowozownia-logo-600x282.png",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "class": "mbr-figure__img",
@@ -1562,7 +1676,375 @@
           },
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"http://muzeumtechniki.pl/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "features1-2z",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": "4",
+            "showImages": true,
+            "showTitles": false,
+            "showCaptions": false,
+            "showButtons": false
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/unnamed-600x276.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "KOPALNIA <br>GUIDO<br>&nbsp;W ZABRZU",
+          "caption1": "Aenean rhoncus maximus tristique. Fusce pellentesque dapibus porta. Maecenas ut eros condimentum, fermentum nisi eget, convallis eros. Suspendisse potenti.&nbsp;",
+          "button1": "<a data-app-btn=\"true\" href=\"http://www.muzeatechniki.pl/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WIĘCEJ</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/parowozownia-logo-600x282.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "SZTOLNIA <br>KRÓLOWA <br>LUIZA",
+          "caption2": "Cras nec mauris dapibus, ultrices risus eget, eleifend metus. Maecenas tempus euismod consequat. Etiam nibh tellus, dictum sit amet posuere et, tempor a est.&nbsp;",
+          "button2": "<a data-app-btn=\"true\" href=\"http://muzeumtechniki.pl/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WIĘCEJ</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/walconia-600x282.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "JAWORZYNA<br>TOUR<br><br>",
+          "caption3": "Curabitur iaculis leo scelerisque est porta, et feugiat ligula imperdiet. Mauris auctor auctor accumsan. Maecenas malesuada faucibus diam, id vulputate est elementum eu.&nbsp;",
+          "button3": "<a data-app-btn=\"true\" href=\"http://www.muzeatechniki.pl/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WIĘCEJ</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-600x282.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "ZABYTKOWA KOPALNIA SREBRA W TARNOWSKICH GÓRACH",
+          "caption4": "Aenean rhoncus maximus tristique. Fusce pellentesque dapibus porta. Maecenas ut eros condimentum, fermentum nisi&nbsp;<br><br>",
+          "button4": "<a data-app-btn=\"true\" href=\"http://www.browarobywatelski.pl/start\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WIĘCEJ</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "file:///C:/Users/58opcji/AppData/Local/Mobirise.com/Mobirise/projectData/unnamed-600x276.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"http://www.muzeatechniki.pl/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WIĘCEJ</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "file:///C:/Users/58opcji/AppData/Local/Mobirise.com/Mobirise/projectData/parowozownia_logo-600x282.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"http://muzeumtechniki.pl/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-section-title .mbr-header__text": {
+              "text-align": "center",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "features1-3j",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": true,
+            "showSubheader": false,
+            "columns": "5",
+            "showImages": true,
+            "showTitles": false,
+            "showCaptions": false,
+            "showButtons": false
+          },
+          "headerAlign": "left",
+          "header": "<br>Współpracujemy i polecamy:<br><br>",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-przezr-600x282.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "KOPALNIA <br>GUIDO<br>&nbsp;W ZABRZU",
+          "caption1": "Aenean rhoncus maximus tristique. Fusce pellentesque dapibus porta. Maecenas ut eros condimentum, fermentum nisi eget, convallis eros. Suspendisse potenti.&nbsp;",
+          "button1": "<a data-app-btn=\"true\" href=\"http://www.muzeatechniki.pl/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WIĘCEJ</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-przezr-600x282.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "SZTOLNIA <br>KRÓLOWA <br>LUIZA",
+          "caption2": "Cras nec mauris dapibus, ultrices risus eget, eleifend metus. Maecenas tempus euismod consequat. Etiam nibh tellus, dictum sit amet posuere et, tempor a est.&nbsp;",
+          "button2": "<a data-app-btn=\"true\" href=\"http://muzeumtechniki.pl/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WIĘCEJ</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/everest-male-logo-600x544.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "http://everest-climbing.com/pl/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "JAWORZYNA<br>TOUR<br><br>",
+          "caption3": "Curabitur iaculis leo scelerisque est porta, et feugiat ligula imperdiet. Mauris auctor auctor accumsan. Maecenas malesuada faucibus diam, id vulputate est elementum eu.&nbsp;",
+          "button3": "<a data-app-btn=\"true\" href=\"http://www.muzeatechniki.pl/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WIĘCEJ</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-przezr-600x282.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "ZABYTKOWA KOPALNIA SREBRA W TARNOWSKICH GÓRACH",
+          "caption4": "Aenean rhoncus maximus tristique. Fusce pellentesque dapibus porta. Maecenas ut eros condimentum, fermentum nisi&nbsp;<br><br>",
+          "button4": "<a data-app-btn=\"true\" href=\"http://www.browarobywatelski.pl/start\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WIĘCEJ</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-przezr-600x282.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"http://www.muzeatechniki.pl/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WIĘCEJ</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "file:///C:/Users/58opcji/AppData/Local/Mobirise.com/Mobirise/projectData/parowozownia_logo-600x282_1.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"http://muzeumtechniki.pl/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>"
         },
         {
           "_tags": [
@@ -1577,7 +2059,8 @@
               "color": "#ffffff"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "16px"
             }
           },
           "_anchor": "contacts2-e",
@@ -1586,11 +2069,11 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-4-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333.jpg",
             "bgColor": "#000000",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0.5",
             "overlayColor": "#000000",
             "googleMap": {
               "address": "1 Maja 22/1, 40-284 Katowice, ",
@@ -1599,8 +2082,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>SIEDZIBA:</strong><strong><br></strong><br>INDUSTRIA TOUR Sp. z o. o.<br>ul. 1 Maja 22/1, 40-284 Katowice<br>NIP:9542755188, REGON: 361484679, KRS: 0000557287<br><br><b>BIURO W ZABRZU:</b><br><br>Industria Tour Sp. z o. o.<br>ul. Wolności 262<br>41-800 Zabrze<br><br>\n<strong>KONTAKT:</strong><br><strong><br></strong><strong>Telefon:&nbsp;</strong><b>+48 501 597 255</b><br><br><b>Szukasz wyjątkowego miejsca na event?</b>&nbsp;Pisz na: <a href=\"mailito:event@industriatour.pl\" target=\"_blank\" class=\"text-danger\">event@industriatour.pl</a><br><br><b>Chciałbyś poznać kulturę i dziedzictwo poprzemysłowe Śląska?</b>&nbsp;Pisz na: <a href=\"mailito:wycieczka@industriatour.pl\" target=\"_blank\" class=\"text-danger\">wycieczka@industriatour.pl</a><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>SPECJALIZUJEMY SIĘ W:</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"wycieczki.html#header1-u\" class=\"text-danger\">Wycieczki szkolne i warsztaty edukacyjne </a>&nbsp;</li><li><a href=\"wycieczki.html#header1-q\" class=\"text-danger\">Wycieczki do obiektów postindustrialnych&nbsp;</a><a href=\"oferta.html#header1-q\" class=\"text-danger\"></a><a href=\"page1.html#header1-q\" class=\"text-danger\"></a><a href=\"index.html\" class=\"text-danger\"></a></li><li><a href=\"oferta.html#header1-t\" class=\"text-danger\">Organizacja imprez komercyjnych</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
+          "text1": "<b>KONTAKT:</b><br><br>Telefon: <b>+48 501 597 255</b><br><br><b>Szukasz wyjątkowego miejsca na event?</b> Pisz na: <a href=\"mailto:event@industriatour.pl\" class=\"text-danger\">event@industriatour.pl</a><br><br><b>Chciałbyś poznać kulturę i dziedzictwo poprzemysłowe Śląska?</b> Pisz na: <a href=\"mailto:wycieczka@industriatour.pl\" class=\"text-danger\">wycieczka@industriatour.pl</a><br><br><strong>SIEDZIBA:</strong><strong><br></strong><br>INDUSTRIA TOUR Sp. z o. o.<br>ul. 1 Maja 22/1, 40-284 Katowice<br>NIP: 9542755188, <br>REGON: 361484679, KRS: 0000557287<br><br><b>BIURO W ZABRZU:</b><br><br>Industria Tour Sp. z o. o.<br>ul. Wolności 262<br>41-800 Zabrze<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>SPECJALIZUJEMY SIĘ W:</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"wycieczki.html#header1-u\" class=\"text-danger\">Wycieczki szkolne i warsztaty edukacyjne </a>&nbsp;</li><li><a href=\"wycieczki.html#header1-q\" class=\"text-danger\">Wycieczki do obiektów postindustrialnych&nbsp;</a><a href=\"oferta.html#header1-q\" class=\"text-danger\"></a><a href=\"page1.html#header1-q\" class=\"text-danger\"></a><a href=\"index.html\" class=\"text-danger\"></a></li><li><a href=\"eventy.html\" class=\"text-danger\">Organizacja imprez</a></li></ul><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>"
         },
         {
           "_styles": {
@@ -1705,7 +2188,7 @@
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"industriatour.html#msg-box5-a\">O NAS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"wycieczki.html\">WYCIECZKI</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"eventy.html\">EVENTY</a></li>        <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"klaster.html\">KLASTER</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"slaskie_gadzety.html\">ŚLĄSKIE GADŻETY</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"industriatour.html#contacts2-e\" data-toolbar=\"-mbrBtnMove\">KONTAKT</a></li>"
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"industriatour.html#contacts2-e\" data-toolbar=\"-mbrBtnMove\">KONTAKT</a></li> "
         },
         {
           "_tags": [
@@ -1895,16 +2378,16 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/park12c-naziemna-41-2000x1334.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "contentAlign": "left",
+            "contentAlign": "right",
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0.3",
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
@@ -1912,8 +2395,96 @@
             "showArrow": true
           },
           "title": "Wycieczki szkolne&nbsp;<div>i warsztaty edukacyjne</div><div><br></div>",
-          "text": "<b>Organizujemy wycieczki i warsztaty edukacyjne. Specjalizujemy się <br>w organizowaniu wyjazdów o tematyce postindustrialnej. Z nami poznasz bogatą kulturę oraz postindustrialne dziedzictwo naszego regionu poprzez różnorodne atrakcje i warsztaty tematyczne.<br></b><br>Jesteśmy elastyczni i każdą ofertę możemy dowolnie dostosować do Państwa indywidualnych preferencji. Nasi piloci są znakomicie przygotowani merytorycznie i przekazują ciekawostki i wiedzę w przystępny i dostosowany do grupy wiekowej sposób.<br><br><br>",
+          "text": "<b>Zaspokajamy ciekawość świata najmłodszych turystów. Wzbudzamy wyobraźnię. Wzbogacamy wiedzę o naszym regionie.</b><br><br>Każdą wycieczkę dowolnie dostosowujemy do indywidualnych potrzeb uczestników.<br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3n",
+          "title": "",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_styles": {
+            "SPAN": {
+              "font-size": "32px"
+            }
+          },
+          "_anchor": "pricing-table1-3f",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/12825294-xxl-2000x1333.jpg",
+            "bgColor": "#f0f0f0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#222",
+            "firstType": "default",
+            "showButtons": true,
+            "secondType": "favorite",
+            "thirdType": "hidden",
+            "fourthType": "default",
+            "fifthType": "hidden"
+          },
+          "title1": "",
+          "currency1": "",
+          "price1": "Bajtel Szychta",
+          "period1": "Kompleks Królowa Luiza",
+          "list1": "<ul><li><b>Zabawa w górników. <br></b>Każdy uczestnik dostaje prawdziwy strój sztygarski, kask i lampę górniczą. Idealny pomysł na urodziny!</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"eventy.html#contacts2-2k\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">ZAPISZ SIĘ</a>",
+          "title2": "",
+          "currency2": "",
+          "price2": "Wycieczka",
+          "period2": "Industrialna",
+          "list2": "<ul><li><b>Zwiedzanie podziemi </b>w różnych wariantach tematycznych, warsztaty naukowe lub kulturowe, animacje, wspólne grillowanie w Kompleksie Królowej Luizy.</li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"eventy.html#contacts2-2k\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">ZAPISZ SIĘ</a>",
+          "title3": "PREMIUM",
+          "currency3": "$",
+          "price3": "0",
+          "period3": "per month",
+          "list3": "<ul><li><b>100 GB</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>50 GB</b> Bandwidth</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title4": "",
+          "currency4": "",
+          "price4": "Park 12c",
+          "period4": "Kompleks Królowa Luiza",
+          "list4": "<ul><li><b>Atrakcje części naziemnej </b>Kompleksu<b> </b>to przede wszystkim zabawa w wydobywanie węgla na Bajtel Grubie, eksperymenty związane z czterema żywiołami, animacje, wspólne grillowanie.</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"eventy.html#contacts2-2k\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">ZAPISZ SIĘ</a>",
+          "title5": "EXTENDED",
+          "currency5": "$",
+          "price5": "0",
+          "period5": "per month",
+          "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3o",
+          "title": "",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": ""
         },
         {
           "_inherit": "gallery1",
@@ -1945,10 +2516,34 @@
                 "caption": "Warsztaty Kulturowe w Sztolni Królowa Luiza",
                 "thumb": "@PROJECT_PATH@/assets/images/img-2-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-2-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Zabawa w Parku 12C",
+                "thumb": "@PROJECT_PATH@/assets/images/lol-9950-recovered-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lol-9950-recovered-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "caption": "Warsztaty w Parku 12C",
+                "thumb": "@PROJECT_PATH@/assets/images/lol-9771-recovered-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lol-9771-recovered-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bajtel Gruba",
+                "thumb": "@PROJECT_PATH@/assets/images/park12c-naziemna-43-p-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/park12c-naziemna-43-p-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "caption": "Bajtel Gruba",
+                "thumb": "@PROJECT_PATH@/assets/images/park12c-naziemna-44-p-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/park12c-naziemna-44-p-2000x1125.jpg",
                 "active": true
               }
             ],
-            "showText": true,
+            "showText": false,
             "fullWidth": false,
             "noGutter": true,
             "showBullets": false
@@ -1957,51 +2552,16 @@
           "articleLayout": true
         },
         {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            },
-            ".mbr-article P": {
-              "color": "#000000"
-            },
-            ".mbr-article UL": {
-              "color": "#000000"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-x",
+          "_name": "header3",
+          "_anchor": "header3-3p",
+          "title": "",
           "_params": {
-            "showCaption": "noCaption",
-            "paddingTop": "0",
-            "paddingBottom": 3,
-            "showTitle": false,
-            "showText": true,
-            "showButton": true,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showMeta": false,
-            "darkBackground": false
+            "showMeta": false
           },
-          "title": "MODERN STYLES",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Korzystamy tylko ze sprawdzonych firm przewozowych więc każdy wyjazd zorganizowany przez nas jest udany i przebiega w miłej atmosferze.</p><p>Stale pracujemy nad przygotowywaniem nowych propozycji – takich, które sprostałyby oczekiwaniom osób lubiących relaks i rozrywkę podczas zwiedzania jak też jak i tych, które poszukują emocji lub ekstremalnych przeżyć.<br></p><p>Teraz tworzymy produkty skierowane do edukacji, których celem jest doświadczenie przez dzieci i młodzież jak ważny dla kultury i historii Śląska był przemysł. W autentycznych obiektach organizujemy zwiedzanie oraz autorskie warsztaty dotyczące kultury i historii śląska (gwary śląskiej, tradycji). &nbsp;</p><p>Zajmujemy się też organizacją wycieczek szkolnych, zakładowych oraz pielgrzymek.</p><p>Proponujemy:</p><ul><li><b>warsztaty i animacje</b></li><li><b>warsztaty kulturowe</b></li><li><b>edukacyjne</b></li><li><b>naukowe</b></li></ul><p>Zachęcamy Państwa do bliższego zapoznania się z naszymi propozycjami, a w przypadku jakichkolwiek pytań –<b><a href=\"page1.html#contacts2-g\" class=\"text-danger\"> kontaktu telefonicznego bądź mailowego</a></b>.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html#features1-v\" data-toolbar=\"-mbrBtnMove\">DO GÓRY</a>"
+          "meta": ""
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -2023,7 +2583,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/m1000-1-2000x1333.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2032,7 +2592,7 @@
             "bgVideoRadio": false,
             "contentAlign": "right",
             "overlay": true,
-            "overlayOpacity": "0.9",
+            "overlayOpacity": "0.4",
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
@@ -2040,7 +2600,7 @@
             "showArrow": true
           },
           "title": "Wycieczki do obiektów postindustrialnych&nbsp;<br><br>",
-          "text": "<b>ZABRZE – Kopalnia Węgla Kamiennego Guido</b><br>Oferta skierowana do grup zorganizowanych<br> <br><b>INDUSTRIA TOUR zaprasza Państwa do zapoznania się z zabytkami Górnego Śląska podczas wycieczki jednodniowej wraz z elementami biesiady i kultury śląskiej</b><br><br>Nasza współpraca z&nbsp;obiektami Szlaku Zabytków Techniki,&nbsp;<br>podmiotami zrzeszonymi w ramach Śląskiego Klastra Kultury Turystyki i Rekreacji oraz z&nbsp;podmiotami  zrzeszonymi w ramach Stowarzyszenia Centrum Działań Rewitalizacyjnych&nbsp;zaowocowała zainicjowaniem przez naszą firmę projektu<b> „Turystyka Postindustrialna Górnego Śląska”</b>.<br>",
+          "text": "<b>Zapraszamy do zapoznania się z zabytkami Górnego Śląska podczas naszych wycieczek wraz z elementami biesiady i kultury śląskiej.</b><br><br>Poznaj walory turystyczne i rekreacyjne poprzemysłowych obiektów. Unikaty na skalę światową znajdują się również w naszym regionie!<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
@@ -2057,139 +2617,228 @@
               "color": "#000000"
             }
           },
-          "_anchor": "content1-1l",
-          "text": "<p>szyjemy na miarę... Program każdej naszej wycieczki możemy dowolnie konstruować według Państwa indywidualnych upodobań i wymagań. Zachęcamy do kontaktu z nami w celu ustalenia programu Państwa przygody ze Śląskiem.</p><p><br></p><p><b>Zapraszamy do odwiedzenia Muzeum Górnictwa Węglowego w Zabrzu, jednego z najbardziej unikatowych  kompleksów postindustrialnych, gdzie w autentycznych obiektach ukazane są  tradycja i kultura Górnego Śląska oraz przemysł górnictwa węglowego.</b></p>"
+          "_anchor": "content1-3q",
+          "text": ""
         },
         {
-          "items": [
-            {
-              "text": "<p class=\"mbr-reviews__p\"><b>Zjazd na poziom 170</b></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">Znajduje się tu kaplica poświęcona kultowi patronki górników oraz realiom pracy w kopalni z początku XX wieku, czyli z okresu najbardziej intensywnego kultu św. Barbary w Górnośląskim górnictwie i jednocześnie okresu wielkiego postępu technologicznego. &nbsp;</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><b>Główne atrakcje:</b></p><p class=\"mbr-reviews__p\">• trasa turystyczna - Poziom Świętej Barbary</p><p class=\"mbr-reviews__p\">klimat XIX - wiecznej kopalni</p><p class=\"mbr-reviews__p\">• przekop wykuty w litej skale</p><p class=\"mbr-reviews__p\">• stajnie końskie sprzed przeszło stu lat</p><p class=\"mbr-reviews__p\">• system odwadniania wyrobisk</p><p class=\"mbr-reviews__p\">• ekspozycje górniczych narzędzi, lamp, sprzętu ratunkowego</p><p class=\"mbr-reviews__p\">• wystawa geologiczna</p><p class=\"mbr-reviews__p\">• doskonale zachowane korytarze i komory kopalniane</p><p class=\"mbr-reviews__p\">• multimedialne projekcje</p><p class=\"mbr-reviews__p\">• mapping prezentujący dzieje patronki górników</p><p class=\"mbr-reviews__p\">• ogromnym witraż oraz rzeźba św. Barbary</p><p class=\"mbr-reviews__p\">• stanowiska medialne dla zwiedzających, pozwalające na samodzielne uzyskanie wiedzy na temat tego miejsca.</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><br></p>",
-              "authorName": "IDEALNA PROPOZYCJA DLA OSÓB Z OGROMNYMI ZASOBAMI ENERGII",
-              "authorBio": "User"
-            },
-            {
-              "text": "<p class=\"mbr-reviews__p\"><b>Poziom 320</b></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">Jest to jedna z najgłębiej położonych tras turystycznych w kopalni węgla kamiennego na świecie.</p><p class=\"mbr-reviews__p\">Jest to wydrążony na przełomie XIX i XX wieku system korytarzy, opartych na dwóch wyrobiskach o łącznej długości ponad 2 km. Tu poznajemy rozwój techniki górniczej od końca XIX w do czasów współczesnych.</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><b>Główne atrakcje:</b></p><p class=\"mbr-reviews__p\">• pokazy pracy potężnych maszyn górniczych, kombajnów, wykorzystywanych we współczesnym górnictwie</p><p class=\"mbr-reviews__p\">• przejazd podwieszaną kolejką elektryczną – jedyną taką kolejką górniczą na świecie, udostępnioną dla turystów.</p><p class=\"mbr-reviews__p\">• zejście w głąb wyrobiska nachylonego pod kątem 18 stopni tzw. upadowa kamienna</p><p class=\"mbr-reviews__p\">• wejście do wyrobiska zabierkowego o wysokości nie przekraczającej wysokości jednego metra, gdzie można dotknąć żyły czarnego węgla.</p><p class=\"mbr-reviews__p\">• <b>Znajduje się tu również strefa K8, a w niej sale koncertowe, teatralne, bankietowe i konferencyjne oraz najgłębiej położony w Europie pub, gdzie istnieje możliwość zakupu pamiątek i posiłków.</b></p><p class=\"mbr-reviews__p\"><br></p>",
-              "authorName": "OPCJA DLA OSÓB POSZUKUJĄCYCH NIESAMOWITYCH WRAŻEŃ",
-              "authorBio": "User"
-            },
-            {
-              "text": "<p class=\"mbr-reviews__p\"><b>Poziom 355</b></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">Trasa ta stanowi obszar eksploatacyjny dla celów szkoleniowo-badawczych do lat osiemdziesiątych XX wieku. To zwiedzanie surowej kopalni, zachowanej w takim stanie, w jakim kilkadziesiąt lat temu opuścili ją górnicy. </p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">Wyprawa na poziom 355 to szychta górnicza w pełnym ekwipunku –<b> dla osób przygotowanych na spory wysiłek i solidną porcję wrażeń. </b>Dostępna dla osób powyżej 18 roku życia. Poziom ten można w równie atrakcyjny sposób zwiedzać bez elementów szychty w w formie wycieczki \"Mroki Kopalni\", dostępnej już od 12 roku życia.</p><p class=\"mbr-reviews__p\"><br></p>",
-              "authorName": "NAJLEPSZA PROPOZYCJA DLA TYCH CO POSZUKUJĄ HARMONII I CHWILI WYTCHNIENIA",
-              "authorBio": "User"
-            }
-          ],
           "_tags": [
             "Theme"
           ],
-          "_name": "testimonials1",
+          "_name": "pricing-table1",
           "_styles": {
-            ".mbr-reviews__author-name": {
+            "SPAN": {
+              "font-size": "32px"
+            },
+            "H3": {
+              "color": "#f97352"
+            },
+            "DIV": {
+              "font-size": "15px"
+            },
+            ".mbr-plan__details UL": {
+              "font-size": "14px"
+            },
+            "B": {
+              "color": "#333333"
+            },
+            "UL": {
+              "font-size": "15px"
+            }
+          },
+          "_anchor": "pricing-table1-3h",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/niezwykla-historia-2000x1333.jpg",
+            "bgColor": "#f0f0f0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#222",
+            "firstType": "default",
+            "showButtons": true,
+            "secondType": "favorite",
+            "thirdType": "default",
+            "fourthType": "favorite",
+            "fifthType": "default"
+          },
+          "title1": "",
+          "currency1": "",
+          "price1": "Walcownia<br><br>",
+          "period1": "<br>Walcownia Szopienice",
+          "list1": "<ul><li><b>Muzeum Hutnictwa Cynku</b></li><li><br></li><li>Unikat w skali międzynarodowej ze względu na oryginalny zachowany ciąg urządzeń produkcyjnych z początku XX wieku!</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"eventy.html#contacts2-2k\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">ZAPISZ SIĘ</a>",
+          "title2": "",
+          "currency2": "",
+          "price2": "Guido<br><br><br>",
+          "period2": "<br>Kopalnia Guido",
+          "list2": "<ul><li><b>Wyjątkowy kompleks postindustrialny</b></li><li><br></li><li>Jest to jedna z najgłębiej położonych tras turystycznych w kopalni węgla kamiennego na świecie.</li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"eventy.html#contacts2-2k\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">ZAPISZ SIĘ</a>",
+          "title3": "",
+          "currency3": "",
+          "price3": "Luiza",
+          "period3": "<br>Kopalnia Królowa Luiza",
+          "list3": "<ul><li><b>Turystyka. Edukacja. Zabawa.</b></li><li><br></li><li>Największy w Polsce park maszyn górniczych udostępnionych dla zwiedzających oraz atrakcje Parku 12C i Bajtel Gruby</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"eventy.html#contacts2-2k\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">ZAPISZ SIĘ</a>",
+          "title4": "",
+          "currency4": "",
+          "price4": " Muzeum&nbsp;",
+          "period4": "<br>Przemysłu i Kolejnictwa&nbsp;",
+          "list4": "<ul><li><b>Unikatowa kolekcja taboru </b>kolejowego zlokalizowana</li><li>na śląsku w Jaworzynie Śląskiej</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"eventy.html#contacts2-2k\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">ZAPISZ SIĘ</a>",
+          "title5": "",
+          "currency5": "",
+          "price5": "Dolny Śląsk",
+          "period5": "<br>Wycieczka trzydniowa",
+          "list5": "<ul><li><span style=\"font-size: 14px;\"><b>W programie:</b></span></li><li><span style=\"font-size: 14px;\">Młyn w Dzierżoniowie</span><br></li><li>Parowozownia w Jaworzynie Śląskiej</li><li>Muzeum Powozów</li><li>Muzeum Samochodów</li><li>Zwiedzanie Wrocławia</li></ul>",
+          "button5": "<a data-app-btn=\"true\" href=\"eventy.html#contacts2-2k\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">ZAPISZ SIĘ</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-size": "17px"
+            },
+            "B": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "content1-3r",
+          "text": ""
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "images": [
+              {
+                "caption": "Zwiedzanie Sztolni Królowa Luiza w Zabrzu",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-8-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Warsztaty Kulturowe w Sztolni Królowa Luiza",
+                "thumb": "@PROJECT_PATH@/assets/images/m-img-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/m-img-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Warsztaty edukacyjne w Sztolni Królowa Luiza w Zabrzu",
+                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2000x1324-800x529.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unnamed-2000x1324.jpg",
+                "active": false
+              },
+              {
+                "caption": "Warsztaty edukacyjne w Sztolni Królowa Luiza w Zabrzu",
+                "thumb": "@PROJECT_PATH@/assets/images/walcownia-karuzela-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/walcownia-karuzela-2000x1333.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "fullWidth": false,
+            "noGutter": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-31",
+          "articleLayout": true
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-size": "17px",
               "text-align": "center"
             },
-            ".mbr-reviews__text P": {
-              "font-size": "16px",
+            "B": {
               "color": "#000000"
             }
           },
-          "testimonial": [
-            {
-              "text": "<p class=\"mbr-reviews__p\"><b>Zjazd na poziom 170</b></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">Znajduje się tu kaplica poświęcona kultowi patronki górników oraz realiom pracy w kopalni z początku XX wieku, czyli z okresu najbardziej intensywnego kultu św. Barbary w Górnośląskim górnictwie i jednocześnie okresu wielkiego postępu technologicznego. &nbsp;</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><b>Główne atrakcje:</b></p><p class=\"mbr-reviews__p\">• trasa turystyczna - Poziom Świętej Barbary</p><p class=\"mbr-reviews__p\">klimat XIX - wiecznej kopalni</p><p class=\"mbr-reviews__p\">• przekop wykuty w litej skale</p><p class=\"mbr-reviews__p\">• stajnie końskie sprzed przeszło stu lat</p><p class=\"mbr-reviews__p\">• system odwadniania wyrobisk</p><p class=\"mbr-reviews__p\">• ekspozycje górniczych narzędzi, lamp, sprzętu ratunkowego</p><p class=\"mbr-reviews__p\">• wystawa geologiczna</p><p class=\"mbr-reviews__p\">• doskonale zachowane korytarze i komory kopalniane</p><p class=\"mbr-reviews__p\">• multimedialne projekcje</p><p class=\"mbr-reviews__p\">• mapping prezentujący dzieje patronki górników</p><p class=\"mbr-reviews__p\">• ogromnym witraż oraz rzeźba św. Barbary</p><p class=\"mbr-reviews__p\">• stanowiska medialne dla zwiedzających, pozwalające na samodzielne uzyskanie wiedzy na temat tego miejsca.</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><br></p>",
-              "authorName": "IDEALNA PROPOZYCJA DLA OSÓB Z OGROMNYMI ZASOBAMI ENERGII",
-              "authorBio": "User"
-            },
-            {
-              "text": "<p class=\"mbr-reviews__p\"><b>Poziom 320</b></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">Jest to jedna z najgłębiej położonych tras turystycznych w kopalni węgla kamiennego na świecie.</p><p class=\"mbr-reviews__p\">Jest to wydrążony na przełomie XIX i XX wieku system korytarzy, opartych na dwóch wyrobiskach o łącznej długości ponad 2 km. Tu poznajemy rozwój techniki górniczej od końca XIX w do czasów współczesnych.</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><b>Główne atrakcje:</b></p><p class=\"mbr-reviews__p\">• pokazy pracy potężnych maszyn górniczych, kombajnów, wykorzystywanych we współczesnym górnictwie</p><p class=\"mbr-reviews__p\">• przejazd podwieszaną kolejką elektryczną – jedyną taką kolejką górniczą na świecie, udostępnioną dla turystów.</p><p class=\"mbr-reviews__p\">• zejście w głąb wyrobiska nachylonego pod kątem 18 stopni tzw. upadowa kamienna</p><p class=\"mbr-reviews__p\">• wejście do wyrobiska zabierkowego o wysokości nie przekraczającej wysokości jednego metra, gdzie można dotknąć żyły czarnego węgla.</p><p class=\"mbr-reviews__p\">• <b>Znajduje się tu również strefa K8, a w niej sale koncertowe, teatralne, bankietowe i konferencyjne oraz najgłębiej położony w Europie pub, gdzie istnieje możliwość zakupu pamiątek i posiłków.</b></p><p class=\"mbr-reviews__p\"><br></p>",
-              "authorName": "OPCJA DLA OSÓB POSZUKUJĄCYCH NIESAMOWITYCH WRAŻEŃ",
-              "authorBio": "User"
-            },
-            {
-              "text": "<p class=\"mbr-reviews__p\"><b>Poziom 355</b></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">Trasa ta stanowi obszar eksploatacyjny dla celów szkoleniowo-badawczych do lat osiemdziesiątych XX wieku. To zwiedzanie surowej kopalni, zachowanej w takim stanie, w jakim kilkadziesiąt lat temu opuścili ją górnicy. </p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">Wyprawa na poziom 355 to szychta górnicza w pełnym ekwipunku –<b> dla osób przygotowanych na spory wysiłek i solidną porcję wrażeń. </b>Dostępna dla osób powyżej 18 roku życia. Poziom ten można w równie atrakcyjny sposób zwiedzać bez elementów szychty w w formie wycieczki \"Mroki Kopalni\", dostępnej już od 12 roku życia.</p><p class=\"mbr-reviews__p\"><br></p>",
-              "authorName": "NAJLEPSZA PROPOZYCJA DLA TYCH CO POSZUKUJĄ HARMONII I CHWILI WYTCHNIENIA",
-              "authorBio": "User"
-            }
-          ],
-          "_anchor": "testimonials1-r",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "count": 3,
-            "showName": false,
-            "showBio": false,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true
-          },
-          "header": "WYCIECZKI WYBRANE DLA CIEBIE:<br><br>"
+          "_anchor": "content1-1l",
+          "text": "<p><br></p><p>Szyjemy na miarę... Program każdej naszej wycieczki możemy dowolnie konstruować według Państwa indywidualnych upodobań i wymagań. Zachęcamy do kontaktu z nami w celu ustalenia programu Państwa przygody ze Śląskiem.</p><p><br></p>"
         },
         {
-          "items": [
-            {
-              "text": "<p class=\"mbr-reviews__p\">Uczestnicy organizowanych przez nas wycieczek mają możliwość zapoznania się z kulturą Śląska i nauki podstaw gwary śląskiej, a także poznania życia codziennego rodzin górniczych oraz nauki gry w Skata i inne popularne na Śląsku gry.</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><b>Ramowy program wycieczki:</b></p><p class=\"mbr-reviews__p\">•\t<b>Wyjazd</b> z miejsca zbiórki. Przejazd do Zabrza</p><p class=\"mbr-reviews__p\">•\t<b>Zwiedzanie</b> Zabytkowej Kopalni  Węgla Kamiennego GUIDO: poziomów 170 i 320 (3h-3,5h)</p><p class=\"mbr-reviews__p\">• <b>Degustacja</b> niepasteryzowanego Piwa GUIDO (1h)</p><p class=\"mbr-reviews__p\">•\t* <i>atrakcje dodatkowe</i> (1h)</p><p class=\"mbr-reviews__p\">•\t<b>Powrót</b></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><i>* DOSTĘPNE OPCJE ATRAKCJI DODATKOWYCH:</i></p><p class=\"mbr-reviews__p\">•\t<b>bufet</b> kawowo - herbaciany wraz z ciastem i ciasteczkami (śląskie kołocze)</p><p class=\"mbr-reviews__p\">•\t<b>Biesiada regionalna</b> (tradycyjny śląski obiad)</p><p class=\"mbr-reviews__p\">•\t<b>Warsztaty regionalne</b>, realizowane w jednej z podziemnych komór na poziomie 320:</p><p class=\"mbr-reviews__p\">• <b>Popularne na Śląsku gry</b>. Zapoznanie się i nauka gwary śląskiej i życiem codziennym, prowadzone przez rodowitych Ślązaków i pasjonatów kultury regionu</p><p class=\"mbr-reviews__p\">*dodatkowo płatne</p><p class=\"mbr-reviews__p\"><br></p>",
-              "authorName": "Dla Państwa komfortu, prosimy o zapoznanie się ze wskazówkami dotyczącymi zwiedzania podziemnych tras turystycznych:<br><br>",
-              "authorBio": "•\tDzieci mogą zwiedzać poziom 170 m bez limitu wieku wraz z opiekunem.<div>&nbsp; Na poziom 320m dzieci mogą zjeżdżać od 7 roku życia &nbsp;</div><div>•\tZ uwagi na różnice ciśnień, odradzamy zwiedzanie poziomu osobom z ciężkimi schorzeniami.</div><div>•\tKobiety w ciąży powinny skonsultować się z lekarzem.</div><div>•\tTemperatura na trasie turystycznej wynosi 16 stopni Celcjusza, zalecamy więc odpowiedni ubiór.</div><div>•\tZalecamy wygodne obuwie z płaską podeszwą.</div>"
-            },
-            {
-              "text": "<p class=\"mbr-reviews__p\">“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
-              "authorName": "SUFFIAN A.",
-              "authorBio": "User"
-            },
-            {
-              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
-              "authorName": "JHOLLMAN C.",
-              "authorBio": "User"
-            }
-          ],
+          "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "testimonials1",
-          "_styles": {
-            ".mbr-reviews__text P": {
-              "color": "#000000"
-            },
-            ".mbr-reviews__author-name DIV": {
-              "font-size": "16px",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            },
-            ".mbr-reviews__author-name": {
-              "font-size": "16px"
-            },
-            ".mbr-reviews__author-bio": {
-              "font-size": "16px"
-            }
-          },
-          "testimonial": [
-            {
-              "text": "<p class=\"mbr-reviews__p\">Uczestnicy organizowanych przez nas wycieczek mają możliwość zapoznania się z kulturą Śląska i nauki podstaw gwary śląskiej, a także poznania życia codziennego rodzin górniczych oraz nauki gry w Skata i inne popularne na Śląsku gry.</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><b>Ramowy program wycieczki:</b></p><p class=\"mbr-reviews__p\">•\t<b>Wyjazd</b> z miejsca zbiórki. Przejazd do Zabrza</p><p class=\"mbr-reviews__p\">•\t<b>Zwiedzanie</b> Zabytkowej Kopalni  Węgla Kamiennego GUIDO: poziomów 170 i 320 (3h-3,5h)</p><p class=\"mbr-reviews__p\">• <b>Degustacja</b> niepasteryzowanego Piwa GUIDO (1h)</p><p class=\"mbr-reviews__p\">•\t* <i>atrakcje dodatkowe</i> (1h)</p><p class=\"mbr-reviews__p\">•\t<b>Powrót</b></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><i>* DOSTĘPNE OPCJE ATRAKCJI DODATKOWYCH:</i></p><p class=\"mbr-reviews__p\">•\t<b>bufet</b> kawowo - herbaciany wraz z ciastem i ciasteczkami (śląskie kołocze)</p><p class=\"mbr-reviews__p\">•\t<b>Biesiada regionalna</b> (tradycyjny śląski obiad)</p><p class=\"mbr-reviews__p\">•\t<b>Warsztaty regionalne</b>, realizowane w jednej z podziemnych komór na poziomie 320:</p><p class=\"mbr-reviews__p\">• <b>Popularne na Śląsku gry</b>. Zapoznanie się i nauka gwary śląskiej i życiem codziennym, prowadzone przez rodowitych Ślązaków i pasjonatów kultury regionu</p><p class=\"mbr-reviews__p\">*dodatkowo płatne</p><p class=\"mbr-reviews__p\"><br></p>",
-              "authorName": "Dla Państwa komfortu, prosimy o zapoznanie się ze wskazówkami dotyczącymi zwiedzania podziemnych tras turystycznych:<br><br>",
-              "authorBio": "•\tDzieci mogą zwiedzać poziom 170 m bez limitu wieku wraz z opiekunem.<div>&nbsp; Na poziom 320m dzieci mogą zjeżdżać od 7 roku życia &nbsp;</div><div>•\tZ uwagi na różnice ciśnień, odradzamy zwiedzanie poziomu osobom z ciężkimi schorzeniami.</div><div>•\tKobiety w ciąży powinny skonsultować się z lekarzem.</div><div>•\tTemperatura na trasie turystycznej wynosi 16 stopni Celcjusza, zalecamy więc odpowiedni ubiór.</div><div>•\tZalecamy wygodne obuwie z płaską podeszwą.</div>"
-            }
-          ],
-          "_anchor": "testimonials1-1m",
+          "_name": "gallery2",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 3,
-            "count": "1",
-            "showName": true,
-            "showBio": true,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true
+            "images": [
+              {
+                "caption": "<br>Wycieczka do Muzeum Przemysłu i Kolejnictwa w Jaworzynie Śl.<br>",
+                "thumb": "@PROJECT_PATH@/assets/images/unnamed-1-2000x1328-800x531.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unnamed-1-2000x1328.jpg",
+                "active": false
+              },
+              {
+                "caption": "<br>Wycieczka do Muzeum Przemysłu i Kolejnictwa w Jaworzynie Śl.<br>",
+                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2-2000x1328-800x531.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unnamed-2-2000x1328.jpg",
+                "active": false
+              },
+              {
+                "caption": "Wycieczka do Walcowni Cynku",
+                "thumb": "@PROJECT_PATH@/assets/images/walcownia-dzieci-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/walcownia-dzieci-2000x1334.jpg",
+                "active": false
+              },
+              {
+                "caption": "Wycieczka do Walcowni Cynku",
+                "thumb": "@PROJECT_PATH@/assets/images/walcownia-maszyny-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/walcownia-maszyny-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Wycieczka do Szybu Carnall",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-9-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Zwiedzanie Szybu Carnall",
+                "thumb": "@PROJECT_PATH@/assets/images/m1000-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/m1000-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Zwiedzanie Szybu Carnall",
+                "thumb": "@PROJECT_PATH@/assets/images/m1000-ptw-39-fot-a-lasko-16-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/m1000-ptw-39-fot-a-lasko-16-2000x1334.jpg",
+                "active": false
+              },
+              {
+                "caption": "Zwiedzanie Szybu Carnall",
+                "thumb": "@PROJECT_PATH@/assets/images/img-16-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-16-2000x1333.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "fullWidth": false,
+            "noGutter": true,
+            "showBullets": false
           },
-          "header": "SPRAWDŹ, CO PRZYGOTOWALIŚMY DODATKOWO!<div>Warsztat tradycji regionalnych</div>"
+          "_anchor": "gallery2-33",
+          "articleLayout": true
         },
         {
           "_styles": {
@@ -2208,7 +2857,7 @@
           "_params": {
             "showCaption": "noCaption",
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "3",
             "showTitle": false,
             "showText": false,
             "showButton": true,
@@ -2230,7 +2879,7 @@
           "title": "MODERN STYLES",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"wycieczki.html#features1-v\" data-toolbar=\"-mbrBtnMove\">DO GÓRY</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"eventy.html#contacts2-2k\" data-toolbar=\"-mbrBtnMove\">ZAREZWERWUJ TERMIN WYCIECZKI</a>"
         },
         {
           "_tags": [
@@ -2245,20 +2894,21 @@
               "color": "#ffffff"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "16px"
             }
           },
-          "_anchor": "contacts2-g",
+          "_anchor": "contacts2-e",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-4-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333.jpg",
             "bgColor": "#000000",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0.5",
             "overlayColor": "#000000",
             "googleMap": {
               "address": "1 Maja 22/1, 40-284 Katowice, ",
@@ -2267,8 +2917,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>SIEDZIBA:</strong><strong><br></strong><br>INDUSTRIA TOUR Sp. z o. o.<br>ul. 1 Maja 22/1, 40-284 Katowice<br>NIP:9542755188, REGON: 361484679, KRS: 0000557287<br><br><b>BIURO W ZABRZU:</b><br><br>Industria Tour Sp. z o. o.<br>ul. Wolności 262<br>41-800 Zabrze<br><br>\n<strong>KONTAKT:</strong><br><strong><br></strong><strong>Telefon:&nbsp;</strong><b>+48 501 597 255</b><br><br><b>Szukasz wyjątkowego miejsca na event?</b>&nbsp;Pisz na: <a href=\"mailito:event@industriatour.pl\" target=\"_blank\" class=\"text-danger\">event@industriatour.pl</a><br><br><b>Chciałbyś poznać kulturę i dziedzictwo poprzemysłowe Śląska?</b>&nbsp;Pisz na: <a href=\"mailito:wycieczka@industriatour.pl\" target=\"_blank\" class=\"text-danger\">wycieczka@industriatour.pl</a><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>SPECJALIZUJEMY SIĘ W:</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"wycieczki.html#header1-u\" class=\"text-danger\">Wycieczki szkolne i warsztaty edukacyjne </a>&nbsp;</li><li><a href=\"wycieczki.html#header1-q\" class=\"text-danger\">Wycieczki do obiektów postindustrialnych&nbsp;</a><a href=\"oferta.html#header1-q\" class=\"text-danger\"></a><a href=\"page1.html#header1-q\" class=\"text-danger\"></a><a href=\"index.html\" class=\"text-danger\"></a></li><li><a href=\"oferta.html#header1-t\" class=\"text-danger\">Organizacja imprez komercyjnych</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
+          "text1": "<b>KONTAKT:</b><br><br>Telefon: <b>+48 501 597 255</b><br><br><b>Szukasz wyjątkowego miejsca na event?</b> Pisz na: <a href=\"mailto:event@industriatour.pl\" class=\"text-danger\">event@industriatour.pl</a><br><br><b>Chciałbyś poznać kulturę i dziedzictwo poprzemysłowe Śląska?</b> Pisz na: <a href=\"mailto:wycieczka@industriatour.pl\" class=\"text-danger\">wycieczka@industriatour.pl</a><br><br><strong>SIEDZIBA:</strong><strong><br></strong><br>INDUSTRIA TOUR Sp. z o. o.<br>ul. 1 Maja 22/1, 40-284 Katowice<br>NIP: 9542755188, <br>REGON: 361484679, KRS: 0000557287<br><br><b>BIURO W ZABRZU:</b><br><br>Industria Tour Sp. z o. o.<br>ul. Wolności 262<br>41-800 Zabrze<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>SPECJALIZUJEMY SIĘ W:</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"wycieczki.html#header1-u\" class=\"text-danger\">Wycieczki szkolne i warsztaty edukacyjne </a>&nbsp;</li><li><a href=\"wycieczki.html#header1-q\" class=\"text-danger\">Wycieczki do obiektów postindustrialnych&nbsp;</a><a href=\"oferta.html#header1-q\" class=\"text-danger\"></a><a href=\"page1.html#header1-q\" class=\"text-danger\"></a><a href=\"index.html\" class=\"text-danger\"></a></li><li><a href=\"eventy.html\" class=\"text-danger\">Organizacja imprez</a></li></ul><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>"
         },
         {
           "_styles": {
@@ -2373,7 +3023,7 @@
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"industriatour.html#msg-box5-a\">O NAS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"wycieczki.html\">WYCIECZKI</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"eventy.html\">EVENTY</a></li>        <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"klaster.html\">KLASTER</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"slaskie_gadzety.html\">ŚLĄSKIE GADŻETY</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"industriatour.html#contacts2-e\" data-toolbar=\"-mbrBtnMove\">KONTAKT</a></li>"
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"industriatour.html#contacts2-e\" data-toolbar=\"-mbrBtnMove\">KONTAKT</a></li> "
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -2383,35 +3033,38 @@
           "_name": "header1",
           "_styles": {
             "H1": {
-              "text-align": "left"
+              "text-align": "right"
             },
             "P": {
-              "text-align": "left",
+              "text-align": "right",
               "font-size": "17px"
+            },
+            "B": {
+              "text-align": "right"
             }
           },
           "_anchor": "header1-2d",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-15-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/fotolia-70235633-m-2000x1332.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "contentAlign": "left",
+            "contentAlign": "right",
             "overlay": true,
-            "overlayOpacity": "0.8",
+            "overlayOpacity": "0.5",
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
             "showButtons": false,
             "showArrow": true
           },
-          "title": "Organizacja imprez komercyjnych<br><br>",
-          "text": "<b>Industria Tour skupia kreatywnych ludzi z pasją, otwartych i pozytywnych, którzy nieustannie dbają o to, by proponowane Państwu atrakcje były nietuzinkowe.<br></b><br>Nasz zespół codziennie poszukuje nowych rozwiązań by zapewnić Klientom wyjątkową oprawę wydarzenia.&nbsp;Mamy wyobraźnię, kreujemy atrakcje z fantazją, zaskakując pomysłowością.<br><br>My odrywamy się od tradycyjnego spojrzenia na wydarzenia firmowe, wybierając te złożone i atrakcyjne formy.<br><br>",
+          "title": "Organizacja imprez<br><br>",
+          "text": "<b>Skupiamy kreatywnych ludzi z pasją, otwartych i pozytywnych, którzy nieustannie dbają o to, by proponowane Państwu atrakcje były nietuzinkowe.<br></b><br>Nasz zespół codziennie poszukuje nowych rozwiązań by zapewnić Klientom wyjątkową oprawę wydarzenia. Mamy wyobraźnię, kreujemy atrakcje z fantazją, zaskakując pomysłowością.<br><br>My odrywamy się od tradycyjnego spojrzenia na wydarzenia firmowe, wybierając złożone i atrakcyjne formy.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
@@ -2423,6 +3076,9 @@
               "text-align": "center"
             },
             ".mbr-article P": {
+              "color": "#000000"
+            },
+            ".mbr-article UL": {
               "color": "#000000"
             }
           },
@@ -2455,7 +3111,7 @@
           },
           "title": "MODERN STYLES",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>U nas w planowaniu eventu liczy się unikalny pomysł oraz świetna realizacja, by wywrzeć wrażenie na odbiorcach. A do tego... sprawdzona oprawa artystyczna, dobrze dobrane miejsce  i sukces waszego spotkania firmowego gwarantowany. My wiemy jak pobudzać emocje, zaskakiwać i inspirować, by wasz event zapadł uczestnikom w pamięć.</p><p>Potrafimy właściwie dopasować koncepcję eventu do jego odbiorców i ich oczekiwań.</p><p>Organizujemy imprezy firmowe proponując wydarzenia incentive w nietuzinkowych miejscach również związanych z obiektami poprzemysłowymi.</p><p><br></p><p><b>Oferta MICE (meetings, incentives, conferences, events)</b></p><p>Branża MICE, czyli spotkania, motywacja, konferencje, wydarzenia firmowe.&nbsp;</p><p>Wydarzenia firmowe są narzędziem prezentowania wizerunku marki, promocji, inicjowania pozytywnych relacji w zespole i z klientami. Dają możliwość skutecznego wybicia się z szumu marketingowego i wzrost rozpoznawalności.</p>",
+          "text": "<p><br></p><p><b>Branża MICE (meetings, incentives, conferences, events)</b></p><p><b><br></b></p><p>MICE, czyli spotkania, motywacja, konferencje, wydarzenia firmowe. To dzięki nim lepiej zaprezentujesz swoją markę, co pozwoli Twojej firmie wybić się z szumu marketingowego i da Ci wzrost rozpoznawalności! Masz szansę zainicjować pozytywne relacje zarówno w zespole jak i z klientami.&nbsp;</p><p>Dla nas w planowaniu eventu liczy się unikalny pomysł oraz świetna realizacja, by wywrzeć wrażenie na odbiorcach. A do tego... sprawdzona oprawa artystyczna, dobrze dobrane miejsce i sukces waszego spotkania firmowego gwarantowany.</p><p><br></p><ul><li>stworzymy oryginalny scenariusz imprezy</li><li>zorganizujemy catering i obsługę gastronomiczną</li><li>zapewnimy oświetlenie, nagłośnienie i oprawę muzyczną, zgodną ze stylem Waszej imprezy</li><li>udekorujemy wnętrze lub plener</li><li>zorganizujemy występy artystyczne, gry i zabawy teambuildingowe</li><li>zapewnimy nocleg, transport, ubezpieczenie OC oraz ochronę</li></ul>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -2487,43 +3143,55 @@
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/m1000-kompresory-rgb-003-2000x1334-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/m1000-kompresory-rgb-003-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-15-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-15-2000x1333.jpg",
+                "active": true
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/oferta-walcownia-2000x1328-800x531.jpg",
+                "image": "@PROJECT_PATH@/assets/images/oferta-walcownia-2000x1328.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/m1000-warsztat-rgb-001-2000x1334-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/m1000-warsztat-rgb-001-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/086-1-2000x1331-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/086-1-2000x1331.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/m1000-warsztat-rgb-002-2000x1334-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/m1000-warsztat-rgb-002-2000x1334.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/m1000-warsztat-rgb-003-2000x1334-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/m1000-warsztat-rgb-003-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/234234fdgv-p-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/234234fdgv-p-2000x1333.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/warsztatmechaniczny-2000x1336-800x534.jpg",
                 "image": "@PROJECT_PATH@/assets/images/warsztatmechaniczny-2000x1336.jpg",
-                "active": true
+                "active": false
               }
             ],
             "showText": false,
-            "bgColor": "#4c6972",
+            "bgColor": "#ffffff",
             "fullWidth": false,
             "noGutter": true,
             "showBullets": true
           },
           "_anchor": "gallery1-2o",
           "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3s",
+          "title": "",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": ""
         },
         {
           "_styles": {
@@ -2627,6 +3295,61 @@
           "period5": "per month",
           "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/m1000-ptw-39-fot-a-lasko-12-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/m1000-ptw-39-fot-a-lasko-12-2000x1334.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/m1000-ptw-39-fot-a-lasko-34-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/m1000-ptw-39-fot-a-lasko-34-2000x1334.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/m1000-ptw-39-fot-a-lasko-35-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/m1000-ptw-39-fot-a-lasko-35-2000x1334.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/unnamed-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unnamed-2-2000x1333.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#4c6972",
+            "fullWidth": false,
+            "noGutter": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-37",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3t",
+          "title": "",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": ""
         },
         {
           "_styles": {
@@ -2759,15 +3482,15 @@
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-1-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-1-2000x1333.jpg",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/img-11-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-11-2000x1333.jpg",
+                "active": true
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
-                "active": true
+                "thumb": "@PROJECT_PATH@/assets/images/img-10-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-10-2000x1333.jpg",
+                "active": false
               }
             ],
             "showText": false,
@@ -2836,7 +3559,8 @@
               "color": "#ffffff"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "16px"
             }
           },
           "_anchor": "contacts2-2k",
@@ -2845,11 +3569,11 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-4-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333.jpg",
             "bgColor": "#000000",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0.5",
             "overlayColor": "#000000",
             "googleMap": {
               "address": "1 Maja 22/1, 40-284 Katowice, ",
@@ -2858,8 +3582,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>SIEDZIBA:</strong><strong><br></strong><br>INDUSTRIA TOUR Sp. z o. o.<br>ul. 1 Maja 22/1, 40-284 Katowice<br>NIP:9542755188, REGON: 361484679, KRS: 0000557287<br><br><b>BIURO W ZABRZU:</b><br><br>Industria Tour Sp. z o. o.<br>ul. Wolności 262<br>41-800 Zabrze<br><br>\n<strong>KONTAKT:</strong><br><strong><br></strong><strong>Telefon:&nbsp;</strong><b>+48 501 597 255</b><br><br><b>Szukasz wyjątkowego miejsca na event?</b>&nbsp;Pisz na: <a href=\"mailito:event@industriatour.pl\" target=\"_blank\" class=\"text-danger\">event@industriatour.pl</a><br><br><b>Chciałbyś poznać kulturę i dziedzictwo poprzemysłowe Śląska?</b>&nbsp;Pisz na: <a href=\"mailito:wycieczka@industriatour.pl\" target=\"_blank\" class=\"text-danger\">wycieczka@industriatour.pl</a><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>SPECJALIZUJEMY SIĘ W:</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"wycieczki.html#header1-u\" class=\"text-danger\">Wycieczki szkolne i warsztaty edukacyjne </a>&nbsp;</li><li><a href=\"wycieczki.html#header1-q\" class=\"text-danger\">Wycieczki do obiektów postindustrialnych&nbsp;</a><a href=\"oferta.html#header1-q\" class=\"text-danger\"></a><a href=\"page1.html#header1-q\" class=\"text-danger\"></a><a href=\"index.html\" class=\"text-danger\"></a></li><li><a href=\"oferta.html#header1-t\" class=\"text-danger\">Organizacja imprez komercyjnych</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
+          "text1": "<b>KONTAKT:</b><br><br>Telefon: <b>+48 501 597 255</b><br><br><b>Szukasz wyjątkowego miejsca na event?</b> Pisz na: <a href=\"mailto:event@industriatour.pl\" class=\"text-danger\">event@industriatour.pl</a><br><br><b>Chciałbyś poznać kulturę i dziedzictwo poprzemysłowe Śląska?</b> Pisz na: <a href=\"mailto:wycieczka@industriatour.pl\" class=\"text-danger\">wycieczka@industriatour.pl</a><br><br><strong>SIEDZIBA:</strong><strong><br></strong><br>INDUSTRIA TOUR Sp. z o. o.<br>ul. 1 Maja 22/1, 40-284 Katowice<br>NIP: 9542755188, <br>REGON: 361484679, KRS: 0000557287<br><br><b>BIURO W ZABRZU:</b><br><br>Industria Tour Sp. z o. o.<br>ul. Wolności 262<br>41-800 Zabrze<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>SPECJALIZUJEMY SIĘ W:</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"wycieczki.html#header1-u\" class=\"text-danger\">Wycieczki szkolne i warsztaty edukacyjne </a>&nbsp;</li><li><a href=\"wycieczki.html#header1-q\" class=\"text-danger\">Wycieczki do obiektów postindustrialnych&nbsp;</a><a href=\"oferta.html#header1-q\" class=\"text-danger\"></a><a href=\"page1.html#header1-q\" class=\"text-danger\"></a><a href=\"index.html\" class=\"text-danger\"></a></li><li><a href=\"eventy.html\" class=\"text-danger\">Organizacja imprez</a></li></ul><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>"
         },
         {
           "_styles": {
@@ -2963,7 +3687,7 @@
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"industriatour.html#msg-box5-a\">O NAS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"wycieczki.html\">WYCIECZKI</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"eventy.html\">EVENTY</a></li>        <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"klaster.html\">KLASTER</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"slaskie_gadzety.html\">ŚLĄSKIE GADŻETY</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"industriatour.html#contacts2-e\" data-toolbar=\"-mbrBtnMove\">KONTAKT</a></li>"
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"industriatour.html#contacts2-e\" data-toolbar=\"-mbrBtnMove\">KONTAKT</a></li> "
         },
         {
           "_tags": [
@@ -3058,7 +3782,8 @@
               "color": "#ffffff"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "16px"
             }
           },
           "_anchor": "contacts2-2w",
@@ -3067,11 +3792,11 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-4-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333.jpg",
             "bgColor": "#000000",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0.5",
             "overlayColor": "#000000",
             "googleMap": {
               "address": "1 Maja 22/1, 40-284 Katowice, ",
@@ -3080,8 +3805,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>SIEDZIBA:</strong><strong><br></strong><br>INDUSTRIA TOUR Sp. z o. o.<br>ul. 1 Maja 22/1, 40-284 Katowice<br>NIP:9542755188, REGON: 361484679, KRS: 0000557287<br><br><b>BIURO W ZABRZU:</b><br><br>Industria Tour Sp. z o. o.<br>ul. Wolności 262<br>41-800 Zabrze<br><br>\n<strong>KONTAKT:</strong><br><strong><br></strong><strong>Telefon:&nbsp;</strong><b>+48 501 597 255</b><br><br><b>Szukasz wyjątkowego miejsca na event?</b>&nbsp;Pisz na: <a href=\"mailito:event@industriatour.pl\" target=\"_blank\" class=\"text-danger\">event@industriatour.pl</a><br><br><b>Chciałbyś poznać kulturę i dziedzictwo poprzemysłowe Śląska?</b>&nbsp;Pisz na: <a href=\"mailito:wycieczka@industriatour.pl\" target=\"_blank\" class=\"text-danger\">wycieczka@industriatour.pl</a><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>SPECJALIZUJEMY SIĘ W:</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"wycieczki.html#header1-u\" class=\"text-danger\">Wycieczki szkolne i warsztaty edukacyjne </a>&nbsp;</li><li><a href=\"wycieczki.html#header1-q\" class=\"text-danger\">Wycieczki do obiektów postindustrialnych&nbsp;</a><a href=\"oferta.html#header1-q\" class=\"text-danger\"></a><a href=\"page1.html#header1-q\" class=\"text-danger\"></a><a href=\"index.html\" class=\"text-danger\"></a></li><li><a href=\"oferta.html#header1-t\" class=\"text-danger\">Organizacja imprez komercyjnych</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
+          "text1": "<b>KONTAKT:</b><br><br>Telefon: <b>+48 501 597 255</b><br><br><b>Szukasz wyjątkowego miejsca na event?</b> Pisz na: <a href=\"mailto:event@industriatour.pl\" class=\"text-danger\">event@industriatour.pl</a><br><br><b>Chciałbyś poznać kulturę i dziedzictwo poprzemysłowe Śląska?</b> Pisz na: <a href=\"mailto:wycieczka@industriatour.pl\" class=\"text-danger\">wycieczka@industriatour.pl</a><br><br><strong>SIEDZIBA:</strong><strong><br></strong><br>INDUSTRIA TOUR Sp. z o. o.<br>ul. 1 Maja 22/1, 40-284 Katowice<br>NIP: 9542755188, <br>REGON: 361484679, KRS: 0000557287<br><br><b>BIURO W ZABRZU:</b><br><br>Industria Tour Sp. z o. o.<br>ul. Wolności 262<br>41-800 Zabrze<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>SPECJALIZUJEMY SIĘ W:</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"wycieczki.html#header1-u\" class=\"text-danger\">Wycieczki szkolne i warsztaty edukacyjne </a>&nbsp;</li><li><a href=\"wycieczki.html#header1-q\" class=\"text-danger\">Wycieczki do obiektów postindustrialnych&nbsp;</a><a href=\"oferta.html#header1-q\" class=\"text-danger\"></a><a href=\"page1.html#header1-q\" class=\"text-danger\"></a><a href=\"index.html\" class=\"text-danger\"></a></li><li><a href=\"eventy.html\" class=\"text-danger\">Organizacja imprez</a></li></ul><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>"
         }
       ]
     }
